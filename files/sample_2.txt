@@ -1,0 +1,4 @@
+body
+{"transId":"950560366666752","accTransId":"950560366666753","userId":"910730130386816","requestId":"CADNQCVP33","shopCode":"S2545234","transCode":"chuyen_tien","subTransCode":"bank_payment_schedule","amount":-830000,"description":"Chuyển tiền đến ngân hàng BIDV","status":"SUCCESS","createdAt":"1652140802000","fee":5500,"openBalance":830000,"closeBalance":0}
+{"transId":"950560366822400","accTransId":"950560366822401","userId":"950320799490304","requestId":"FBMPBUVA71","shopCode":"S4587592","transCode":"chuyen_tien","subTransCode":"bank_payment_schedule","amount":-10000,"description":"Chuyển tiền đến ngân hàng VCB","status":"SUCCESS","createdAt":"1652140802000","fee":5500,"openBalance":10000,"closeBalance":0}
+

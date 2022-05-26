@@ -1,0 +1,814 @@
+{'shopCode': 'S19724004', 'shopName': '*Mạnh Cường Store*', 'date': '10/05/2022', 'transactionId': 12170108}
+{"success":true,"data":{"fromDate":1652008239000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/e731ab53daa54835b154d68fa4bef758.xls"}}
+{'shopCode': 'S21162872', 'shopName': 'Míu Corset - Đồ Lót Hỗ Trợ Vóc Dáng', 'date': '10/05/2022', 'transactionId': 12170907}
+{"success":true,"data":{"fromDate":1651628700000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/d6695bb4679c4da192fbc220fb3dce12.xls"}}
+{'shopCode': 'S2806976', 'shopName': 'Cùi-dìa', 'date': '10/05/2022', 'transactionId': 12179944}
+{"success":true,"data":{"fromDate":1652088860000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/7f438702e11b4f128fb4e3055b4fc3f4.xls"}}
+{'shopCode': 'S185422', 'shopName': 'shop mẹ Sam', 'date': '10/05/2022', 'transactionId': 12179945}
+{"success":true,"data":{"fromDate":1652070840000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/42c516350bfa4370b874d89709acf7b1.xls"}}
+{'shopCode': 'S648713', 'shopName': 'trắng.store137', 'date': '10/05/2022', 'transactionId': 12179946}
+{"success":true,"data":{"fromDate":1652109694000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/608c8ebc89744f818590d49cb00a38d3.xls"}}
+{'shopCode': 'S4693508', 'shopName': 'Shop Hang Auth', 'date': '10/05/2022', 'transactionId': 12179947}
+{"success":true,"data":{"fromDate":1652091898000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/cecffaa5c9784cfda2a9463b9664895f.xls"}}
+{'shopCode': 'S4494472', 'shopName': 'lan anh 16 1', 'date': '10/05/2022', 'transactionId': 12179948}
+{"success":true,"data":{"fromDate":1652111923000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/038108d5e2f143ae8517b575267c0e23.xls"}}
+{'shopCode': 'S6925524', 'shopName': 'Nguyễn Hồng Long', 'date': '10/05/2022', 'transactionId': 12179949}
+{"success":true,"data":{"fromDate":1652065671000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/9587542aa7c24d95bd631efb7ae1fbcb.xls"}}
+{'shopCode': 'S8931220', 'shopName': 'shop thuận khiêm', 'date': '10/05/2022', 'transactionId': 12179950}
+{"success":true,"data":{"fromDate":1651484271000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/d2f486fbb97f49a5bdddbc5cbf48d278.xls"}}
+{'shopCode': 'S7149160', 'shopName': 'Mi Ni (Công ty Hà Kim Ngân)', 'date': '10/05/2022', 'transactionId': 12179953}
+{"success":true,"data":{"fromDate":1652058299000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/f14e1e8250c2480e97bd40c41ae5f037.xls"}}
+{'shopCode': 'S10163726', 'shopName': 'LinhNhim', 'date': '10/05/2022', 'transactionId': 12179956}
+{"success":true,"data":{"fromDate":1651755228000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/c6892faa351d4ce8b069fd236c664ba5.xls"}}
+{'shopCode': 'S12148337', 'shopName': 'B-Order', 'date': '10/05/2022', 'transactionId': 12179957}
+{"success":true,"data":{"fromDate":1651558625000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/b66e9965e5ff422ea7b1789565fe4d22.xls"}}
+{'shopCode': 'S9377310', 'shopName': 'khang17', 'date': '10/05/2022', 'transactionId': 12179958}
+{"success":false,"errorCode":"internal.server.error","traceId":"dc4547e1f203053b","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S13435166', 'shopName': 'Shop Trà Thảo Mộc Organic', 'date': '10/05/2022', 'transactionId': 12179959}
+{"success":true,"data":{"fromDate":1651924428000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/786ff74e908a4f18836b15da2cdd9d50.xls"}}
+{'shopCode': 'S15663982', 'shopName': 'Zezehadi', 'date': '10/05/2022', 'transactionId': 12179962}
+{"success":true,"data":{"fromDate":1652074996000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/fe86e9d48f1441c1b247dc4b365c32c4.xls"}}
+{'shopCode': 'S8426402', 'shopName': 'SilverQueen', 'date': '10/05/2022', 'transactionId': 12179963}
+{"success":true,"data":{"fromDate":1651649249000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/abf6a7b5a11845efb675358691522ea0.xls"}}
+{'shopCode': 'S10687826', 'shopName': 'Nice Mom Fashion', 'date': '10/05/2022', 'transactionId': 12179966}
+{"success":true,"data":{"fromDate":1651631350000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/519d5dafacff4f4eb133474ae9d97e48.xls"}}
+{'shopCode': 'S12340196', 'shopName': 'Quang Chung Store', 'date': '10/05/2022', 'transactionId': 12179969}
+{"success":true,"data":{"fromDate":1652104851000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/5a13c0aa51814657b71a40211102775f.xls"}}
+{'shopCode': 'S14343292', 'shopName': 'Phong Thuỷ Maxi', 'date': '10/05/2022', 'transactionId': 12179970}
+{"success":true,"data":{"fromDate":1650585611000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/02072a2310484f25b2a0e13c88ece34c.xls"}}
+{'shopCode': 'S14870386', 'shopName': 'xương khớp Thầy Thanh', 'date': '10/05/2022', 'transactionId': 12179971}
+{"success":true,"data":{"fromDate":1652104035000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/c797cf99a8e34ecd8ffd0a33a2cd5f36.xls"}}
+{'shopCode': 'S14913430', 'shopName': 'trần bá duy', 'date': '10/05/2022', 'transactionId': 12179972}
+{"success":true,"data":{"fromDate":1651485929000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/3b2e980e63ae4802b6e58c67b3945aaa.xls"}}
+{'shopCode': 'S16489900', 'shopName': 'Bebi93', 'date': '10/05/2022', 'transactionId': 12179973}
+{"success":true,"data":{"fromDate":1652083360000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/4ba8668d958a4e0eafd530db01ee3d03.xls"}}
+{'shopCode': 'S10966280', 'shopName': 'linhperfect', 'date': '10/05/2022', 'transactionId': 12179974}
+{"success":true,"data":{"fromDate":1652077799000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/8da9ce99e08f44c0a341bd18603a6fd7.xls"}}
+{'shopCode': 'S18647724', 'shopName': 'Lynth', 'date': '10/05/2022', 'transactionId': 12179975}
+{"success":false,"errorCode":"internal.server.error","traceId":"8d46216bf7f7a766","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S14458117', 'shopName': 'giang mixu', 'date': '10/05/2022', 'transactionId': 12179976}
+{"success":false,"errorCode":"internal.server.error","traceId":"f5851f4321a7f929","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S14893516', 'shopName': 'LINHpc123', 'date': '10/05/2022', 'transactionId': 12179977}
+{"success":true,"data":{"fromDate":1650946589000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/a3f098ef802f4624b83f6250fdb5f1d4.xls"}}
+{'shopCode': 'S14555341', 'shopName': 'đồ hiệu TRẦN', 'date': '10/05/2022', 'transactionId': 12179978}
+{"success":true,"data":{"fromDate":1652008152000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/4e4d6f35f6234d75b5197aa9afa8c93c.xls"}}
+{'shopCode': 'S18573821', 'shopName': 'Mondeyyy', 'date': '10/05/2022', 'transactionId': 12179979}
+{"success":true,"data":{"fromDate":1649139934000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/44247ed64b604086bde7d8008af36d23.xls"}}
+{'shopCode': 'S15150283', 'shopName': 'Ánh ngáo', 'date': '10/05/2022', 'transactionId': 12179980}
+{"success":true,"data":{"fromDate":1651762879000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/05220fd97acf4c31becd9eaf29588b47.xls"}}
+{'shopCode': 'S15668884', 'shopName': 'Lã Vũ Hoàng Anh', 'date': '10/05/2022', 'transactionId': 12179981}
+{"success":true,"data":{"fromDate":1650352094000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/382b50c97b854726bc9b8bd13836cbf5.xls"}}
+{'shopCode': 'S16938394', 'shopName': 'AowVN', 'date': '10/05/2022', 'transactionId': 12179982}
+{"success":false,"errorCode":"internal.server.error","traceId":"edcfbdebede16976","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S11623', 'shopName': 'TC-FASHION', 'date': '10/05/2022', 'transactionId': 12179983}
+{"success":true,"data":{"fromDate":1651898440000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/2c5568ff1c464aa4abb479b4fd2fde1c.xls"}}
+{'shopCode': 'S19364156', 'shopName': 'Táo kids', 'date': '10/05/2022', 'transactionId': 12179984}
+{"success":true,"data":{"fromDate":1649116810000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/026a4847faf84e2c81e92aeb196de906.xls"}}
+{'shopCode': 'S42879', 'shopName': 'quần áo sơ sinh baby', 'date': '10/05/2022', 'transactionId': 12179985}
+{"success":true,"data":{"fromDate":1651846653000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/57f042818ef543faafe7faf483b57572.xls"}}
+{'shopCode': 'S20225661', 'shopName': 'Đồ gia dụng thông minh...', 'date': '10/05/2022', 'transactionId': 12179986}
+{"success":false,"errorCode":"internal.server.error","traceId":"ffaf7b2bfbd6f0f0","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S18594718', 'shopName': 'Thiên Kiều', 'date': '10/05/2022', 'transactionId': 12179987}
+{"success":true,"data":{"fromDate":1652095937000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/792bb23853484ec883e6dc5f6752ec4c.xls"}}
+{'shopCode': 'S16464625', 'shopName': 'Cu Đức Áo Bóng Đá', 'date': '10/05/2022', 'transactionId': 12179988}
+{"success":true,"data":{"fromDate":1651940497000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/90c6773dd9654b3fa407927c98a556ef.xls"}}
+{'shopCode': 'S16738615', 'shopName': 'Dermarium_Da Nang', 'date': '10/05/2022', 'transactionId': 12179989}
+{"success":true,"data":{"fromDate":1651917822000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/7e0db042cc8b4a11b3b279e49854e710.xls"}}
+{'shopCode': 'S33504', 'shopName': "Hàng Mỹ Zeni's", 'date': '10/05/2022', 'transactionId': 12179990}
+{"success":true,"data":{"fromDate":1651831442000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/c6686da46c11491f9326da39f714bad3.xls"}}
+{'shopCode': 'S18859771', 'shopName': 'Bắc Táo', 'date': '10/05/2022', 'transactionId': 12179991}
+{"success":true,"data":{"fromDate":1652005737000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/baafe23863704c15882fb2c668029a72.xls"}}
+{'shopCode': 'S1027404', 'shopName': 'Thu Thuỷ', 'date': '10/05/2022', 'transactionId': 12179992}
+{"success":true,"data":{"fromDate":1651914103000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/b16a268eb54c48718ce0a63287edc65a.xls"}}
+{'shopCode': 'S19969342', 'shopName': 'Khánh Ly Bùi', 'date': '10/05/2022', 'transactionId': 12179993}
+{"success":true,"data":{"fromDate":1651502277000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/94e61755c5fc49e0818c79c8ff82c325.xls"}}
+{'shopCode': 'S16386022', 'shopName': 'oto vn', 'date': '10/05/2022', 'transactionId': 12179994}
+{"success":true,"data":{"fromDate":1651628281000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/52610bf26f844158a6165c5b0c53a74a.xls"}}
+{'shopCode': 'S20435820', 'shopName': 'Holikids', 'date': '10/05/2022', 'transactionId': 12179995}
+{"success":true,"data":{"fromDate":1651556435000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/0c52728fdd6f41c8a4619d846d1ccdae.xls"}}
+{'shopCode': 'S248143', 'shopName': 'Châu 8357', 'date': '10/05/2022', 'transactionId': 12179996}
+{"success":true,"data":{"fromDate":1652059124000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/55e6962175db4995819e8302e1db04f6.xls"}}
+{'shopCode': 'S19876811', 'shopName': 'Trang Trang', 'date': '10/05/2022', 'transactionId': 12179997}
+{"success":true,"data":{"fromDate":1651465111000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/8e1f1819ea5c4a079e7a493204d4ff87.xls"}}
+{'shopCode': 'S39962', 'shopName': 'TB Nails - Phụ Liệu Nails SG', 'date': '10/05/2022', 'transactionId': 12179998}
+{"success":true,"data":{"fromDate":1652106082000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/bcdcfd86b4b64116a2a7388c2cda7e3a.xls"}}
+{'shopCode': 'S18947399', 'shopName': 'Ratek Store', 'date': '10/05/2022', 'transactionId': 12179999}
+{"success":true,"data":{"fromDate":1652069995000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/f4827e1ae66043638baf6734e4f8429e.xls"}}
+{'shopCode': 'S20003048', 'shopName': 'SHOP Lương Phúc', 'date': '10/05/2022', 'transactionId': 12180000}
+{"success":true,"data":{"fromDate":1651977419000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/43f19da801114c9c99f29a96315f92e8.xls"}}
+{'shopCode': 'S256360', 'shopName': 'T.Ấ.T store', 'date': '10/05/2022', 'transactionId': 12180001}
+{"success":true,"data":{"fromDate":1651836781000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/3acb76d3546d4c7ba5009dd5c865f3e6.xls"}}
+{'shopCode': 'S496501', 'shopName': "Yaa's shop", 'date': '10/05/2022', 'transactionId': 12180002}
+{"success":true,"data":{"fromDate":1651944093000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/89d61e5a619e4aa691f96b843754aba9.xls"}}
+{'shopCode': 'S3692651', 'shopName': 'Phương Châu', 'date': '10/05/2022', 'transactionId': 12180003}
+{"success":true,"data":{"fromDate":1651929952000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/3f367db7fbf845368937a4332ccddc29.xls"}}
+{'shopCode': 'S18266351', 'shopName': 'Ann', 'date': '10/05/2022', 'transactionId': 12180004}
+{"success":false,"errorCode":"internal.server.error","traceId":"c604beb74004d61d","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S18913663', 'shopName': 'TranTuanKiet', 'date': '10/05/2022', 'transactionId': 12180005}
+{"success":false,"errorCode":"internal.server.error","traceId":"434fe1735c68c29e","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S7854160', 'shopName': 'Xuân Chính Apple Watch', 'date': '10/05/2022', 'transactionId': 12180006}
+{"success":true,"data":{"fromDate":1651539729000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/edabb7a6a2c1468a96e0f40fbfa7577f.xls"}}
+{'shopCode': 'S45116', 'shopName': 'Bạch Thuỳ Shop', 'date': '10/05/2022', 'transactionId': 12180007}
+{"success":true,"data":{"fromDate":1651914409000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/c2d82c3d4eaf486f9b13e34b90b4ccc4.xls"}}
+{'shopCode': 'S20070081', 'shopName': 'Phila Niê- Lan Chi', 'date': '10/05/2022', 'transactionId': 12180008}
+{"success":true,"data":{"fromDate":1652099046000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/3d38b894a58e4f65bbe1561205ad1518.xls"}}
+{'shopCode': 'S38021', 'shopName': '2DStore', 'date': '10/05/2022', 'transactionId': 12180009}
+{"success":true,"data":{"fromDate":1652082259000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/6cc6dfb5255046599b61f374748117a0.xls"}}
+{'shopCode': 'S21395227', 'shopName': 'KELLY', 'date': '10/05/2022', 'transactionId': 12180010}
+{"success":true,"data":{"fromDate":1651107011000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/1f0b2672bf78437d8dc57bbd9681d1e3.xls"}}
+{'shopCode': 'S21187329', 'shopName': 'Trần Thị An', 'date': '10/05/2022', 'transactionId': 12180013}
+{"success":true,"data":{"fromDate":1651908440000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/a4cf1b10ac6743eda2a68175b36387e0.xls"}}
+{'shopCode': 'S21207509', 'shopName': 'KIERA STORE', 'date': '10/05/2022', 'transactionId': 12180020}
+{"success":true,"data":{"fromDate":1651571654000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/8f61a1b1963342429fc73fc017cede21.xls"}}
+{'shopCode': 'S2147730', 'shopName': 'Thietbiquanghoc', 'date': '10/05/2022', 'transactionId': 12180024}
+{"success":true,"data":{"fromDate":1652090799000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/453ea550363c4d4e96aab1df8d1acd06.xls"}}
+{'shopCode': 'S21348386', 'shopName': 'Bào Ngư Shop', 'date': '10/05/2022', 'transactionId': 12180025}
+{"success":true,"data":{"fromDate":1652067474000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/2432378498f742f0a357437ab0cf3060.xls"}}
+{'shopCode': 'S2272674', 'shopName': 'Hưng Thinh Phát', 'date': '10/05/2022', 'transactionId': 12180028}
+{"success":true,"data":{"fromDate":1652107555000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/0ad089f1768048388a33dd2fb3cd9c29.xls"}}
+{'shopCode': 'S20354756', 'shopName': 'ĐOÀN THỊ CHI', 'date': '10/05/2022', 'transactionId': 12180029}
+{"success":true,"data":{"fromDate":1652106872000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/f35ebcc760a34207bdb1a5b0fa2d24a1.xls"}}
+{'shopCode': 'S586901', 'shopName': 'La Yến Team', 'date': '10/05/2022', 'transactionId': 12180030}
+{"success":false,"errorCode":"internal.server.error","traceId":"41a48d6378727bff","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S18773330', 'shopName': 'Duy Boo', 'date': '10/05/2022', 'transactionId': 12180031}
+{"success":true,"data":{"fromDate":1651111994000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/f46193cde6fb4559804110bb240a2a1f.xls"}}
+{'shopCode': 'S20481172', 'shopName': 'cửa hàng phong thuỷ', 'date': '10/05/2022', 'transactionId': 12180034}
+{"success":true,"data":{"fromDate":1649721607000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/e12e55fba24a49d6afdcd3c3db0bcd9c.xls"}}
+{'shopCode': 'S18020933', 'shopName': 'Bảo Trang1987', 'date': '10/05/2022', 'transactionId': 12180035}
+{"success":true,"data":{"fromDate":1652083263000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/fb178bea1a9d45fa82d7b0a7a99fcd03.xls"}}
+{'shopCode': 'S21339410', 'shopName': 'OLWEN Store ...', 'date': '10/05/2022', 'transactionId': 12180038}
+{"success":true,"data":{"fromDate":1651981651000,"toDate":1652140802000,"url":"https://cache.giaohangtietkiem.vn/d/7e15e514ac6c4383972e5ee081c03933.xls"}}
+{'shopCode': 'S1722409', 'shopName': 'Ngọc Thuần', 'date': '11/05/2022', 'transactionId': 12180039}
+{"success":true,"data":{"fromDate":1652169381000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/29491cd34e7b45768f56815d8381819d.xls"}}
+{'shopCode': 'S205168', 'shopName': 'TUYẾT', 'date': '11/05/2022', 'transactionId': 12180042}
+{"success":true,"data":{"fromDate":1651822288000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/a32316250392402ebe8bf1c783ce20db.xls"}}
+{'shopCode': 'S2749348', 'shopName': 'Lê Thị Khánh Trà', 'date': '11/05/2022', 'transactionId': 12180045}
+{"success":true,"data":{"fromDate":1651580640000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/4d6fb9bfe10849f98e843a45c4edc2dc.xls"}}
+{'shopCode': 'S128651', 'shopName': 'Canashop', 'date': '11/05/2022', 'transactionId': 12180046}
+{"success":true,"data":{"fromDate":1648950201000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/6df16fca02004436a3a9fc7a5b8d0acd.xls"}}
+{'shopCode': 'S19761545', 'shopName': 'Minh Nguyễn', 'date': '11/05/2022', 'transactionId': 12180049}
+{"success":true,"data":{"fromDate":1651758450000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/dc338e40ffa64add847f496fed6d97cc.xls"}}
+{'shopCode': 'S4347963', 'shopName': 'teoemshop', 'date': '11/05/2022', 'transactionId': 12180052}
+{"success":true,"data":{"fromDate":1651839149000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/adbc733998bb45bbb85bca3af2d9cd09.xls"}}
+{'shopCode': 'S4123779', 'shopName': 'STORK', 'date': '11/05/2022', 'transactionId': 12180053}
+{"success":true,"data":{"fromDate":1652188311000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/c6dbe7af30014d199b3e0b933acb294c.xls"}}
+{'shopCode': 'S2973762', 'shopName': 'VTH Computer', 'date': '11/05/2022', 'transactionId': 12180054}
+{"success":true,"data":{"fromDate":1651754551000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/bc6efe9cc54741dfac002c215379fe45.xls"}}
+{'shopCode': 'S7223264', 'shopName': 'hang2k', 'date': '11/05/2022', 'transactionId': 12180055}
+{"success":true,"data":{"fromDate":1651633172000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/70f57e7836374645aac5a8381c63bad2.xls"}}
+{'shopCode': 'S6229566', 'shopName': 'hoa3010', 'date': '11/05/2022', 'transactionId': 12180056}
+{"success":true,"data":{"fromDate":1651660346000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/0489f48a9a1d4341927c290b786d17b7.xls"}}
+{'shopCode': 'S6831943', 'shopName': 'Ha Thao My', 'date': '11/05/2022', 'transactionId': 12180057}
+{"success":true,"data":{"fromDate":1651644947000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/bb41d60d0e834700a0c04f7af2e552f6.xls"}}
+{'shopCode': 'S3272140', 'shopName': 'She9999', 'date': '11/05/2022', 'transactionId': 12180058}
+{"success":true,"data":{"fromDate":1652162038000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/6d84d8d0225a4193a2da21575494a82f.xls"}}
+{'shopCode': 'S4286379', 'shopName': 'Hải Đăng Shop27', 'date': '11/05/2022', 'transactionId': 12180059}
+{"success":false,"errorCode":"internal.server.error","traceId":"6bd3437903f2db67","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S4347407', 'shopName': 'tichmichshop', 'date': '11/05/2022', 'transactionId': 12180060}
+{"success":true,"data":{"fromDate":1652175756000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/608d10a17dcd4484bd9b0875df236864.xls"}}
+{'shopCode': 'S8906472', 'shopName': 'Foxiii', 'date': '11/05/2022', 'transactionId': 12180061}
+{"success":true,"data":{"fromDate":1650338460000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/9b5534e083f24bb39f4e6677fef5b67e.xls"}}
+{'shopCode': 'S8930236', 'shopName': 'Ong Hạnh', 'date': '11/05/2022', 'transactionId': 12180062}
+{"success":true,"data":{"fromDate":1652110849000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/16c38d86ddb44a709cbf2b0bd530df97.xls"}}
+{'shopCode': 'S4541912', 'shopName': 'TuTy Case', 'date': '11/05/2022', 'transactionId': 12180067}
+{"success":true,"data":{"fromDate":1651573679000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/a839a8e2af7b4229bffa16795ca53a05.xls"}}
+{'shopCode': 'S5110456', 'shopName': 'Tùng Lâm Ngx Bá', 'date': '11/05/2022', 'transactionId': 12180068}
+{"success":false,"errorCode":"internal.server.error","traceId":"51ea371616cdb5dc","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S9705144', 'shopName': 'Minh An Shop', 'date': '11/05/2022', 'transactionId': 12180069}
+{"success":true,"data":{"fromDate":1651740183000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/6ce71969a79c4bb0a9c5b598600d851a.xls"}}
+{'shopCode': 'S9986663', 'shopName': 'tuấn vũ', 'date': '11/05/2022', 'transactionId': 12180072}
+{"success":true,"data":{"fromDate":1651972683000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/515551cbe2a94ecb9413d3ca8774271a.xls"}}
+{'shopCode': 'S11633612', 'shopName': 'trang chíp 11', 'date': '11/05/2022', 'transactionId': 12180075}
+{"success":true,"data":{"fromDate":1651834881000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/7a51b3e51a6f45e1a6525fbd0a5a4a81.xls"}}
+{'shopCode': 'S6454874', 'shopName': 'shop hiếu hoàng', 'date': '11/05/2022', 'transactionId': 12180076}
+{"success":true,"data":{"fromDate":1649743853000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/01d96aea0258400f97ec1fb13015eef7.xls"}}
+{'shopCode': 'S7079500', 'shopName': 'LongKent', 'date': '11/05/2022', 'transactionId': 12180079}
+{"success":false,"errorCode":"internal.server.error","traceId":"439c3bc0705a2dc5","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S5749935', 'shopName': 'BÁNH TRÁNG CÔ LIÊN', 'date': '11/05/2022', 'transactionId': 12180080}
+{"success":true,"data":{"fromDate":1652178126000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/b8a62b5dde2e43678dd08a789181780f.xls"}}
+{'shopCode': 'S19798657', 'shopName': 'hoà burberry', 'date': '11/05/2022', 'transactionId': 12180081}
+{"success":false,"errorCode":"internal.server.error","traceId":"4447a9b9e18e04af","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S7037204', 'shopName': 'MP TECH', 'date': '11/05/2022', 'transactionId': 12180082}
+{"success":true,"data":{"fromDate":1652198091000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/3ae06d8a803e49b68c2945d672beb937.xls"}}
+{'shopCode': 'S7106608', 'shopName': 'cherry chipi', 'date': '11/05/2022', 'transactionId': 12180085}
+{"success":true,"data":{"fromDate":1652065817000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/e8a74622b00e48e0a1447066b46c0e25.xls"}}
+{'shopCode': 'S9201009', 'shopName': 'Phương Thúy', 'date': '11/05/2022', 'transactionId': 12180086}
+{"success":true,"data":{"fromDate":1652087834000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/4ddcddc2b18f45ea81119d1ba3b4260a.xls"}}
+{'shopCode': 'S7747792', 'shopName': 'shop MAI THANH THAO', 'date': '11/05/2022', 'transactionId': 12180087}
+{"success":true,"data":{"fromDate":1652168818000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/d16ab81c630646f49f6bbca29f0f2563.xls"}}
+{'shopCode': 'S8122254', 'shopName': 'Niia store', 'date': '11/05/2022', 'transactionId': 12180088}
+{"success":true,"data":{"fromDate":1652181887000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/89483b2f0402415788784f304dceb0d3.xls"}}
+{'shopCode': 'S14015449', 'shopName': 'LaLa', 'date': '11/05/2022', 'transactionId': 12180089}
+{"success":true,"data":{"fromDate":1651801869000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/e6b525cdbc0f45869d6153cd1e90533b.xls"}}
+{'shopCode': 'S11369624', 'shopName': 'Nguyễn Hiếu 98', 'date': '11/05/2022', 'transactionId': 12180090}
+{"success":true,"data":{"fromDate":1651208396000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/cda28472049948bc8e5c778e82c30e3a.xls"}}
+{'shopCode': 'S11493449', 'shopName': 'Mã Hoàng Khánh Linh', 'date': '11/05/2022', 'transactionId': 12180091}
+{"success":true,"data":{"fromDate":1651939083000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/50faaf5233c742a098b47cdb156b4296.xls"}}
+{'shopCode': 'S9926207', 'shopName': 'Nguyễn Lan Phương66', 'date': '11/05/2022', 'transactionId': 12180092}
+{"success":true,"data":{"fromDate":1650300243000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/35738f4a1a3348f194490077eaef6e0a.xls"}}
+{'shopCode': 'S9319920', 'shopName': 'TRẦN THỊ HOA1', 'date': '11/05/2022', 'transactionId': 12180093}
+{"success":true,"data":{"fromDate":1651590303000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/e59e8c00ad644e138a7049bfde74a49b.xls"}}
+{'shopCode': 'S15030430', 'shopName': 'Lạc Uyên', 'date': '11/05/2022', 'transactionId': 12180094}
+{"success":true,"data":{"fromDate":1652116698000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/40c00fdca2144cbd9b22791c5fcc4407.xls"}}
+{'shopCode': 'S9754581', 'shopName': 'Kính Thiên Shop', 'date': '11/05/2022', 'transactionId': 12180095}
+{"success":true,"data":{"fromDate":1652100006000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/4018e56bebb64a558bd4216f107d1209.xls"}}
+{'shopCode': 'S16277455', 'shopName': 'shop Mit kute', 'date': '11/05/2022', 'transactionId': 12180096}
+{"success":true,"data":{"fromDate":1652115066000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/c99a8da15f8740d397b7c194a10e7aa8.xls"}}
+{'shopCode': 'S18309487', 'shopName': 'vppminhkhue', 'date': '11/05/2022', 'transactionId': 12180097}
+{"success":false,"errorCode":"internal.server.error","traceId":"a69b3c957c3d3143","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S10934879', 'shopName': 'kemmitd store', 'date': '11/05/2022', 'transactionId': 12180098}
+{"success":true,"data":{"fromDate":1651568390000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/9b570aea0f104b4b8fc89099aee3697d.xls"}}
+{'shopCode': 'S10839056', 'shopName': 'Vy362', 'date': '11/05/2022', 'transactionId': 12180099}
+{"success":true,"data":{"fromDate":1652068615000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/aaca22f4e80d4aceb1b979302e82db00.xls"}}
+{'shopCode': 'S42322', 'shopName': 'Bishop.vn', 'date': '11/05/2022', 'transactionId': 12180100}
+{"success":true,"data":{"fromDate":1652140828000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/8d31a2e6a0fb401a8d5132896222dca0.xls"}}
+{'shopCode': 'S13490885', 'shopName': 'SreySua', 'date': '11/05/2022', 'transactionId': 12180101}
+{"success":true,"data":{"fromDate":1651571765000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/85ca86bdf7894273ab717aff252306e2.xls"}}
+{'shopCode': 'S10146227', 'shopName': 'N&N Shop', 'date': '11/05/2022', 'transactionId': 12180102}
+{"success":true,"data":{"fromDate":1651557318000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/37ea759cae1343a09582b7c994b6c32a.xls"}}
+{'shopCode': 'S19267236', 'shopName': 'Kiều Trang Cosmetics', 'date': '11/05/2022', 'transactionId': 12180103}
+{"success":true,"data":{"fromDate":1652153718000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/88f67b5f9a184020b5e797091cde3abd.xls"}}
+{'shopCode': 'S13853182', 'shopName': 'nguyễn ngọc linh linh', 'date': '11/05/2022', 'transactionId': 12180104}
+{"success":true,"data":{"fromDate":1650604589000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/4878cf2e927d4b9a902a49ebbb9f41da.xls"}}
+{'shopCode': 'S14388040', 'shopName': 'Vũ Ngát shop', 'date': '11/05/2022', 'transactionId': 12180105}
+{"success":false,"errorCode":"internal.server.error","traceId":"7ede148a8622df08","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S11384261', 'shopName': 'Phong Bành', 'date': '11/05/2022', 'transactionId': 12180106}
+{"success":true,"data":{"fromDate":1651735925000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/5d5daa2c535241ac885688ca777b1c21.xls"}}
+{'shopCode': 'S10984394', 'shopName': 'Tổng kho Như Ý', 'date': '11/05/2022', 'transactionId': 12180107}
+{"success":false,"errorCode":"internal.server.error","traceId":"d5da0370945ab40a","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S13410908', 'shopName': 'DangDuyDuong', 'date': '11/05/2022', 'transactionId': 12180108}
+{"success":false,"errorCode":"internal.server.error","traceId":"02a69dc1dd2e29cd","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S15983395', 'shopName': 'chiminsg', 'date': '11/05/2022', 'transactionId': 12180109}
+{"success":true,"data":{"fromDate":1652187328000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/61e96c29ca60440d9f6f94b582209d36.xls"}}
+{'shopCode': 'S15373042', 'shopName': 'Yến Sào Sao Phương Anh', 'date': '11/05/2022', 'transactionId': 12180110}
+{"success":true,"data":{"fromDate":1652143796000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/10f2e7aea8094a029bc353536a1bcc18.xls"}}
+{'shopCode': 'S44129', 'shopName': 'Khiết An', 'date': '11/05/2022', 'transactionId': 12180111}
+{"success":true,"data":{"fromDate":1651740962000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/089b778518b64ef1946585ae26ac5391.xls"}}
+{'shopCode': 'S13136873', 'shopName': 'NGUYỄN MINH HIẾU', 'date': '11/05/2022', 'transactionId': 12180112}
+{"success":true,"data":{"fromDate":1652054413000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/5fa747509cce4d74832c65e0ba8d8abb.xls"}}
+{'shopCode': 'S13820380', 'shopName': 'Rogee', 'date': '11/05/2022', 'transactionId': 12180113}
+{"success":false,"errorCode":"internal.server.error","traceId":"57167854b905d454","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S18033512', 'shopName': 'đồ gia dụng hậu Giang', 'date': '11/05/2022', 'transactionId': 12180114}
+{"success":true,"data":{"fromDate":1652008049000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/47da8806440340c0bd7c8ea5f6542e03.xls"}}
+{'shopCode': 'S17024998', 'shopName': 'Datbun', 'date': '11/05/2022', 'transactionId': 12180115}
+{"success":true,"data":{"fromDate":1650844811000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/0f35498006a84cc7abb7a22333fde083.xls"}}
+{'shopCode': 'S23480', 'shopName': 'Truc Amethyst', 'date': '11/05/2022', 'transactionId': 12180116}
+{"success":true,"data":{"fromDate":1652093736000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/000623a21ba44d16a303b1bfbdf1d64e.xls"}}
+{'shopCode': 'S19852777', 'shopName': 'MeMin', 'date': '11/05/2022', 'transactionId': 12180119}
+{"success":true,"data":{"fromDate":1651109935000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/b1c9474a4ebe43d59f7143c185e8da01.xls"}}
+{'shopCode': 'S12217718', 'shopName': 'TinKunStore', 'date': '11/05/2022', 'transactionId': 12180120}
+{"success":true,"data":{"fromDate":1652054414000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/ba1c009923f745eea017d4f8fbb40957.xls"}}
+{'shopCode': 'S19921931', 'shopName': 'Bui Huong', 'date': '11/05/2022', 'transactionId': 12180123}
+{"success":true,"data":{"fromDate":1652159321000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/3cfd6fc136924aab85efce1a807c3abc.xls"}}
+{'shopCode': 'S18781348', 'shopName': 'nguyễn mai', 'date': '11/05/2022', 'transactionId': 12180124}
+{"success":true,"data":{"fromDate":1652079473000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/f325f36f0c194a21b9d8ac9148bab5ed.xls"}}
+{'shopCode': 'S12770591', 'shopName': 'mr táo', 'date': '11/05/2022', 'transactionId': 12180127}
+{"success":true,"data":{"fromDate":1652193946000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/1876903f1a04481bb68a1b4ccf2a201d.xls"}}
+{'shopCode': 'S17635964', 'shopName': 'Tình Hương', 'date': '11/05/2022', 'transactionId': 12180128}
+{"success":true,"data":{"fromDate":1651021750000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/4c3323fa349e4f2887c872ce300791d1.xls"}}
+{'shopCode': 'S14409871', 'shopName': 'Đỗ Trọng Đại', 'date': '11/05/2022', 'transactionId': 12180129}
+{"success":false,"errorCode":"internal.server.error","traceId":"0b6887e3aedf363f","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S15545068', 'shopName': 'Nguyễnn Diệuu Như', 'date': '11/05/2022', 'transactionId': 12180130}
+{"success":true,"data":{"fromDate":1652061171000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/5b8dfb6aa9694226be4db3bcc8256007.xls"}}
+{'shopCode': 'S16075450', 'shopName': 'Nguyễn tú triệu', 'date': '11/05/2022', 'transactionId': 12180131}
+{"success":true,"data":{"fromDate":1649764196000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/a76151cba6574b419c8bca181ec203b3.xls"}}
+{'shopCode': 'S18423478', 'shopName': 'Nhà vườn óc chó Hà Giang 0353765736', 'date': '11/05/2022', 'transactionId': 12180132}
+{"success":true,"data":{"fromDate":1652190858000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/fe02396f13e640fba934ff0e2b9f672b.xls"}}
+{'shopCode': 'S2666760', 'shopName': 'teppy.shop', 'date': '11/05/2022', 'transactionId': 12180133}
+{"success":true,"data":{"fromDate":1652154659000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/ef4ae9336dde4642aabbb3f565de005d.xls"}}
+{'shopCode': 'S52453', 'shopName': 'Tạp hoá mẹ Cà', 'date': '11/05/2022', 'transactionId': 12180134}
+{"success":true,"data":{"fromDate":1652162439000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/1185bcb084374f9d8818b21a09e1fb08.xls"}}
+{'shopCode': 'S18376556', 'shopName': 'Đào Định', 'date': '11/05/2022', 'transactionId': 12180135}
+{"success":true,"data":{"fromDate":1650844811000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/5d7811efe065456ebd2632b2ef1606e1.xls"}}
+{'shopCode': 'S16353211', 'shopName': 'Sess Thánh Thiện', 'date': '11/05/2022', 'transactionId': 12180136}
+{"success":true,"data":{"fromDate":1652077212000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/200c4a513d494e13a65b5aa065abe445.xls"}}
+{'shopCode': 'S6119207', 'shopName': 'BongVintageCloset', 'date': '11/05/2022', 'transactionId': 12180137}
+{"success":true,"data":{"fromDate":1651563271000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/4e506b8daf6547c8a82352a1e544e162.xls"}}
+{'shopCode': 'S46749', 'shopName': 'Cao Hoài Trang', 'date': '11/05/2022', 'transactionId': 12180138}
+{"success":true,"data":{"fromDate":1651891691000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/56815dabe7ff4f1e94cfb5d0559b6248.xls"}}
+{'shopCode': 'S16359595', 'shopName': 'shop Huy Nha', 'date': '11/05/2022', 'transactionId': 12180139}
+{"success":true,"data":{"fromDate":1652065803000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/dae65f23a728440088d604305a02591b.xls"}}
+{'shopCode': 'S18259882', 'shopName': 'Trịnh Tâm', 'date': '11/05/2022', 'transactionId': 12180140}
+{"success":true,"data":{"fromDate":1651979733000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/82e30d96af8e41d3b8061358d70234c8.xls"}}
+{'shopCode': 'S5069', 'shopName': 'Shop Diệu Vy', 'date': '11/05/2022', 'transactionId': 12180141}
+{"success":true,"data":{"fromDate":1652064962000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/a4cefd28a04a46e2b5066a69ce07fb2f.xls"}}
+{'shopCode': 'S18933674', 'shopName': 'Shop Sơn Tâm - YT', 'date': '11/05/2022', 'transactionId': 12180142}
+{"success":true,"data":{"fromDate":1649376013000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/2c838faa3e9a4a9686f8f66842c01486.xls"}}
+{'shopCode': 'S573358', 'shopName': 'Nam Anh Studio', 'date': '11/05/2022', 'transactionId': 12180143}
+{"success":true,"data":{"fromDate":1650518951000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/775541d956be44c99f9a16a2cf732837.xls"}}
+{'shopCode': 'S3488019', 'shopName': 'cao thu nga', 'date': '11/05/2022', 'transactionId': 12180144}
+{"success":true,"data":{"fromDate":1651749336000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/445da105ccea4d9eb51667678233fa6f.xls"}}
+{'shopCode': 'S3311684', 'shopName': 'Hai Tini Shop', 'date': '11/05/2022', 'transactionId': 12180145}
+{"success":true,"data":{"fromDate":1652196370000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/451095edfd1a4cc8b64eabbea26f0de1.xls"}}
+{'shopCode': 'S20303060', 'shopName': 'Đại Lý Hạt Giống VP', 'date': '11/05/2022', 'transactionId': 12180146}
+{"success":true,"data":{"fromDate":1650585622000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/15bd119978a34644a2c0638efc4fba49.xls"}}
+{'shopCode': 'S13435916', 'shopName': 'bộp sneaker', 'date': '11/05/2022', 'transactionId': 12180147}
+{"success":false,"errorCode":"internal.server.error","traceId":"0214fac8cfe9ae74","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S20458082', 'shopName': 'Ann.holding', 'date': '11/05/2022', 'transactionId': 12180148}
+{"success":false,"errorCode":"internal.server.error","traceId":"7dc98f93ffb88bbe","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S20529949', 'shopName': 'Shop HD.', 'date': '11/05/2022', 'transactionId': 12180149}
+{"success":true,"data":{"fromDate":1652054433000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/c94ca2f139fb42f68420a8d0c32e7844.xls"}}
+{'shopCode': 'S16003903', 'shopName': 'Catkat Kids', 'date': '11/05/2022', 'transactionId': 12180150}
+{"success":true,"data":{"fromDate":1651558188000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/2c604f9447224235bc8d8882a0afb9eb.xls"}}
+{'shopCode': 'S542477', 'shopName': 'cafedidong', 'date': '11/05/2022', 'transactionId': 12180151}
+{"success":true,"data":{"fromDate":1651481959000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/d6cf9d7a3b0244d9acc058949814cfe7.xls"}}
+{'shopCode': 'S44447', 'shopName': 'Nhà Thuốc Xoang Kim Giao', 'date': '11/05/2022', 'transactionId': 12180152}
+{"success":true,"data":{"fromDate":1651856019000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/52e87b90e28c46cc89a8ac4d6a4c22ae.xls"}}
+{'shopCode': 'S477177', 'shopName': 'Anh Thư- Si Auth Vip', 'date': '11/05/2022', 'transactionId': 12180153}
+{"success":true,"data":{"fromDate":1652140815000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/afb0670173c24a86825e953d47800e23.xls"}}
+{'shopCode': 'S7415896', 'shopName': 'Hương Giang', 'date': '11/05/2022', 'transactionId': 12180154}
+{"success":true,"data":{"fromDate":1652090835000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/06a394eec5924c28a9a1b1872cecadf9.xls"}}
+{'shopCode': 'S463313', 'shopName': 'TUTIKIDS', 'date': '11/05/2022', 'transactionId': 12180155}
+{"success":true,"data":{"fromDate":1649203223000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/f18b0cbd36f8403981570d36ba3c7167.xls"}}
+{'shopCode': 'S7571915', 'shopName': 'Quyên Quyền', 'date': '11/05/2022', 'transactionId': 12180158}
+{"success":true,"data":{"fromDate":1652178385000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/601c21793aac43049006d09a1c8afbf1.xls"}}
+{'shopCode': 'S558001', 'shopName': 'CiCi.clothing', 'date': '11/05/2022', 'transactionId': 12180159}
+{"success":true,"data":{"fromDate":1652164571000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/cfe8ba1cf8f54f65badcd829d7452d27.xls"}}
+{'shopCode': 'S67381', 'shopName': 'Phạm Ngọc Hoa', 'date': '11/05/2022', 'transactionId': 12180160}
+{"success":true,"data":{"fromDate":1652175051000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/68f1de03dc674a0ab3716aec07b9308b.xls"}}
+{'shopCode': 'S1015552', 'shopName': 'Sang giày', 'date': '11/05/2022', 'transactionId': 12180161}
+{"success":true,"data":{"fromDate":1652189619000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/24caf6d3858a486d809497e3025308ee.xls"}}
+{'shopCode': 'S41904', 'shopName': 'MAD DOG STORE', 'date': '11/05/2022', 'transactionId': 12180174}
+{"success":true,"data":{"fromDate":1652186633000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/bbe5b97149e24f7a893c92545aedd19b.xls"}}
+{'shopCode': 'S11723', 'shopName': 'Sole Protector', 'date': '11/05/2022', 'transactionId': 12180177}
+{"success":true,"data":{"fromDate":1652169334000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/08c0d7004878496d9b387a32c2c76a5b.xls"}}
+{'shopCode': 'S61574', 'shopName': 'Shop Tuổi Thơ 3', 'date': '11/05/2022', 'transactionId': 12180178}
+{"success":false,"errorCode":"internal.server.error","traceId":"c11da2aa05fc150f","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S20520016', 'shopName': 'Phụ Kiện T.N$', 'date': '11/05/2022', 'transactionId': 12180179}
+{"success":true,"data":{"fromDate":1651795227000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/37d56860874c4ed790600afb18050abf.xls"}}
+{'shopCode': 'S20569814', 'shopName': 'H store', 'date': '11/05/2022', 'transactionId': 12180182}
+{"success":true,"data":{"fromDate":1649837946000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/21d80278fdce4e078a40511d31e0a31d.xls"}}
+{'shopCode': 'S528613', 'shopName': 'cỏ mobile', 'date': '11/05/2022', 'transactionId': 12180187}
+{"success":true,"data":{"fromDate":1652110846000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/059ea1c241274b3e95788a7767b71f46.xls"}}
+{'shopCode': 'S3467023', 'shopName': 'hàng gia dụng Ngọc', 'date': '11/05/2022', 'transactionId': 12180188}
+{"success":true,"data":{"fromDate":1652157094000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/21d54a430d234c5096accb45bd2ebe6e.xls"}}
+{'shopCode': 'S20935157', 'shopName': 'co cay hoa la', 'date': '11/05/2022', 'transactionId': 12180189}
+{"success":true,"data":{"fromDate":1652178617000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/6940744b52ad464188358a9be5742ed6.xls"}}
+{'shopCode': 'S20375930', 'shopName': 'Ngọc Ánh', 'date': '11/05/2022', 'transactionId': 12180190}
+{"success":true,"data":{"fromDate":1651891550000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/7542e9bcdefa41d6b37e0f5d669e504d.xls"}}
+{'shopCode': 'S9020532', 'shopName': 'Vi Thảo', 'date': '11/05/2022', 'transactionId': 12180191}
+{"success":true,"data":{"fromDate":1652053627000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/ca4bcd54c17f41fcb25c0ef2444dfbb0.xls"}}
+{'shopCode': 'S21060918', 'shopName': 'shop ảo thuật', 'date': '11/05/2022', 'transactionId': 12180192}
+{"success":true,"data":{"fromDate":1651906347000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/ad1c4c6fdff8406589604964a6f990f2.xls"}}
+{'shopCode': 'S11619575', 'shopName': 'Shop cầu vồng 0909', 'date': '11/05/2022', 'transactionId': 12180193}
+{"success":true,"data":{"fromDate":1649251184000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/f994be6122884576bac9ce69adaf96f9.xls"}}
+{'shopCode': 'S19433772', 'shopName': 'Lady', 'date': '11/05/2022', 'transactionId': 12180194}
+{"success":true,"data":{"fromDate":1649203230000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/1f82f3062f79422da05da9d25d8397b9.xls"}}
+{'shopCode': 'S21075643', 'shopName': 'Như Quỳnh Shop', 'date': '11/05/2022', 'transactionId': 12180195}
+{"success":false,"errorCode":"internal.server.error","traceId":"14d11ea4a44cb839","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S20733394', 'shopName': 'Duy Vinh đồng hồ, loa đài', 'date': '11/05/2022', 'transactionId': 12180196}
+{"success":true,"data":{"fromDate":1652065567000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/00bb63a1fe9f4947879ecd92cbe0900b.xls"}}
+{'shopCode': 'S21178371', 'shopName': 'Bi Bi!!!', 'date': '11/05/2022', 'transactionId': 12180197}
+{"success":true,"data":{"fromDate":1652160211000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/bfcd705045f84f278c422686a7d56cb8.xls"}}
+{'shopCode': 'S21206826', 'shopName': 'thảo phương shop', 'date': '11/05/2022', 'transactionId': 12180198}
+{"success":true,"data":{"fromDate":1652001740000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/b997c6a100084e4bae81633316cf73b9.xls"}}
+{'shopCode': 'S9751689', 'shopName': 'ximuoishop1810', 'date': '11/05/2022', 'transactionId': 12180199}
+{"success":true,"data":{"fromDate":1651911478000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/ea5388c917384e16b337085ccdeb1614.xls"}}
+{'shopCode': 'S20551837', 'shopName': 'Thời Trang Nam', 'date': '11/05/2022', 'transactionId': 12180200}
+{"success":true,"data":{"fromDate":1650844821000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/0536f4b1d98e4be38d83b2549c868099.xls"}}
+{'shopCode': 'S4684496', 'shopName': 'Gia Hân store', 'date': '11/05/2022', 'transactionId': 12180201}
+{"success":false,"errorCode":"internal.server.error","traceId":"4183ba726f62a50c","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S21270232', 'shopName': 'Thanh Thanh Shop', 'date': '11/05/2022', 'transactionId': 12180202}
+{"success":true,"data":{"fromDate":1651810116000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/1d7b70c6464a4e27a616093cfb6a5647.xls"}}
+{'shopCode': 'S18953852', 'shopName': 'chipk', 'date': '11/05/2022', 'transactionId': 12180203}
+{"success":true,"data":{"fromDate":1651919328000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/d37c5d5c15c04594802cb05c5f950fab.xls"}}
+{'shopCode': 'S18269608', 'shopName': 'an', 'date': '11/05/2022', 'transactionId': 12180206}
+{"success":true,"data":{"fromDate":1651912482000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/c6a953d20c624ebd8fc6a2fb010fb955.xls"}}
+{'shopCode': 'S14990536', 'shopName': 'DoQuocAn999', 'date': '11/05/2022', 'transactionId': 12180207}
+{"success":true,"data":{"fromDate":1651978374000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/e60606ea43554464b99a66bef7fd6b58.xls"}}
+{'shopCode': 'S21271838', 'shopName': 'Tram Trâm', 'date': '11/05/2022', 'transactionId': 12180208}
+{"success":true,"data":{"fromDate":1652171918000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/1a6519859bbd471491e28a86e01aef93.xls"}}
+{'shopCode': 'S21443456', 'shopName': 'Vũ Long Anh', 'date': '11/05/2022', 'transactionId': 12180209}
+{"success":true,"data":{"fromDate":1651726811000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/8009ad4ed5e2446c93acacafffb72191.xls"}}
+{'shopCode': 'S21175328', 'shopName': 'Mộc Natural & Healthy', 'date': '11/05/2022', 'transactionId': 12180210}
+{"success":true,"data":{"fromDate":1651032841000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/4453a5908e374e86a28f351c8d3d2ed0.xls"}}
+{'shopCode': 'S21411647', 'shopName': 'Minh Tỷ', 'date': '11/05/2022', 'transactionId': 12180211}
+{"success":true,"data":{"fromDate":1651850091000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/9bfd3fee3c344716b67d405d8beac5ab.xls"}}
+{'shopCode': 'S21101389', 'shopName': 'TT Shopp', 'date': '11/05/2022', 'transactionId': 12180212}
+{"success":true,"data":{"fromDate":1652054440000,"toDate":1652227202000,"url":"https://cache.giaohangtietkiem.vn/d/f801a372af364cbaa32da526ed7a2e98.xls"}}
+{'shopCode': 'S19731091', 'shopName': 'Nội thất nhà xinh', 'date': '12/05/2022', 'transactionId': 12180213}
+{"success":true,"data":{"fromDate":1651824829000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/226b7d39b55f48f3a3df9dd54526c360.xls"}}
+{'shopCode': 'S1632917', 'shopName': 'Shop Thời Trang P&N-Phương Nhung', 'date': '12/05/2022', 'transactionId': 12180214}
+{"success":true,"data":{"fromDate":1652206510000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/3e377493fa744c2c855652404b0d980c.xls"}}
+{'shopCode': 'S4091959', 'shopName': 'VuongThu', 'date': '12/05/2022', 'transactionId': 12180215}
+{"success":true,"data":{"fromDate":1652177682000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/79948263834a4703a8a5209531204664.xls"}}
+{'shopCode': 'S5090104', 'shopName': 'panda1', 'date': '12/05/2022', 'transactionId': 12180216}
+{"success":true,"data":{"fromDate":1651918706000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/91fb6dd8718b4e7cabba3a4d582faade.xls"}}
+{'shopCode': 'S5714315', 'shopName': 'Cô Chủ Nhỏ', 'date': '12/05/2022', 'transactionId': 12180217}
+{"success":true,"data":{"fromDate":1652236777000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/d3ad02060c8d4503b532b1255389ca7c.xls"}}
+{'shopCode': 'S10182413', 'shopName': 'Novida- Rừng thắt lưng biển ví', 'date': '12/05/2022', 'transactionId': 12180218}
+{"success":true,"data":{"fromDate":1652236057000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/b6bd7b1f39ac447585d5d25081659c85.xls"}}
+{'shopCode': 'S19044804', 'shopName': 'Nông Thị Thu Uyên', 'date': '12/05/2022', 'transactionId': 12180219}
+{"success":true,"data":{"fromDate":1651999779000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/b757fc216bc94f0b8a85138c01fe6f51.xls"}}
+{'shopCode': 'S15239644', 'shopName': 'Châu Thị Minh Anh Mũn', 'date': '12/05/2022', 'transactionId': 12180220}
+{"success":true,"data":{"fromDate":1652251046000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/389c005cae9d4f20ba93759ad2c6e64c.xls"}}
+{'shopCode': 'S15753154', 'shopName': 'SHOP NEW THÚY LINH', 'date': '12/05/2022', 'transactionId': 12180221}
+{"success":true,"data":{"fromDate":1652255649000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/79c8a2303626416e926250cbb3a6ef26.xls"}}
+{'shopCode': 'S15831019', 'shopName': 'baongoc2712', 'date': '12/05/2022', 'transactionId': 12180222}
+{"success":true,"data":{"fromDate":1649059731000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/83027cf9f3ea4584b13af3364bc1f01f.xls"}}
+{'shopCode': 'S19212770', 'shopName': 'ENBY SHOP', 'date': '12/05/2022', 'transactionId': 12180223}
+{"success":true,"data":{"fromDate":1651860556000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/cf58932aabcd408baac254efeb76625e.xls"}}
+{'shopCode': 'S1564089', 'shopName': 'Kho Vòng Đá 86Gems', 'date': '12/05/2022', 'transactionId': 12180224}
+{"success":true,"data":{"fromDate":1652282163000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/e6b74def233d414ab46ed35cd140628d.xls"}}
+{'shopCode': 'S19201461', 'shopName': 'Gia Bảo', 'date': '12/05/2022', 'transactionId': 12180225}
+{"success":true,"data":{"fromDate":1652109815000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/8da6a348e33e46ec9c65c362040f9f4f.xls"}}
+{'shopCode': 'S18284836', 'shopName': 'Lương Đan Phương', 'date': '12/05/2022', 'transactionId': 12180226}
+{"success":true,"data":{"fromDate":1652250879000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/0a2144881f094675a971d9d13262865b.xls"}}
+{'shopCode': 'S2655044', 'shopName': 'Ánh Lammer', 'date': '12/05/2022', 'transactionId': 12180227}
+{"success":true,"data":{"fromDate":1652226354000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/64d20a651f084ba486cd1e203c51dce5.xls"}}
+{'shopCode': 'S181687', 'shopName': 'Nhiiiiiii', 'date': '12/05/2022', 'transactionId': 12180228}
+{"success":true,"data":{"fromDate":1652239393000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/02cefe5711b94e7d8594232d5efc8cbb.xls"}}
+{'shopCode': 'S25095', 'shopName': 'Lin Auth', 'date': '12/05/2022', 'transactionId': 12180229}
+{"success":true,"data":{"fromDate":1652152157000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/652b41dc51b446d78ae956adeca8184f.xls"}}
+{'shopCode': 'S18487370', 'shopName': 'thành', 'date': '12/05/2022', 'transactionId': 12180230}
+{"success":true,"data":{"fromDate":1651742989000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/012a2a6859b04e3482d6d62446a2991c.xls"}}
+{'shopCode': 'S21035183', 'shopName': 'Rosie', 'date': '12/05/2022', 'transactionId': 12180231}
+{"success":true,"data":{"fromDate":1652091972000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/44e0dd4169ca4095a32735e45671a236.xls"}}
+{'shopCode': 'S21454786', 'shopName': 'Đỗ Đức Hưng', 'date': '12/05/2022', 'transactionId': 12180232}
+{"success":true,"data":{"fromDate":1652076456000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/be4c3768d0bd4199bb273e90838bfb45.xls"}}
+{'shopCode': 'S24159', 'shopName': 'Pandora Food Box - Taiwan Food', 'date': '12/05/2022', 'transactionId': 12180233}
+{"success":true,"data":{"fromDate":1652270838000,"toDate":1652313602000,"url":"https://cache.giaohangtietkiem.vn/d/e0e68eb9f1334651a68ebc5031550b21.xls"}}
+{'shopCode': 'S4462548', 'shopName': 'Bảo Ngọc', 'date': '13/05/2022', 'transactionId': 12180234}
+{"success":true,"data":{"fromDate":1652340716000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/d696c7f2864643009be501448cc33805.xls"}}
+{'shopCode': 'S5485604', 'shopName': 'Trần Giang @@', 'date': '13/05/2022', 'transactionId': 12180235}
+{"success":true,"data":{"fromDate":1649980803000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/da9849075bac47b195f900b982de4b42.xls"}}
+{'shopCode': 'S4746300', 'shopName': 'Sopin', 'date': '13/05/2022', 'transactionId': 12180238}
+{"success":true,"data":{"fromDate":1652348299000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/aecd386fa23644dfb1a7b9437774300a.xls"}}
+{'shopCode': 'S4784048', 'shopName': 'Hồ Trúc Phương(Trúc Phương chuyên sỉ/lẻ giá rẻ)', 'date': '13/05/2022', 'transactionId': 12180239}
+{"success":true,"data":{"fromDate":1652227207000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/b39c21ccd71548e58f8ee75725697d4b.xls"}}
+{'shopCode': 'S5346588', 'shopName': '1987 Watch', 'date': '13/05/2022', 'transactionId': 12180240}
+{"success":true,"data":{"fromDate":1652337326000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/4ae2bc2de9c74535984f761c1e856c36.xls"}}
+{'shopCode': 'S8023642', 'shopName': 'Hằng Nguyễn 95', 'date': '13/05/2022', 'transactionId': 12180241}
+{"success":true,"data":{"fromDate":1652340619000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/989d63eb25f442fe8780586272d708a7.xls"}}
+{'shopCode': 'S7083532', 'shopName': 'Trang Lương', 'date': '13/05/2022', 'transactionId': 12180242}
+{"success":true,"data":{"fromDate":1652344647000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/7fdbbd6c60704cf690c6defebd982fab.xls"}}
+{'shopCode': 'S7865632', 'shopName': 'Triệu Thanh Hà', 'date': '13/05/2022', 'transactionId': 12180243}
+{"success":true,"data":{"fromDate":1652373558000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/fb0924a9e5c64f608f3ad0fea07106b2.xls"}}
+{'shopCode': 'S11300699', 'shopName': 'Tructienfashionshop1409', 'date': '13/05/2022', 'transactionId': 12180244}
+{"success":true,"data":{"fromDate":1652269876000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/9653bcd651b341f5928b081629fe1680.xls"}}
+{'shopCode': 'S9453162', 'shopName': 'shop pé long', 'date': '13/05/2022', 'transactionId': 12180245}
+{"success":true,"data":{"fromDate":1652372784000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/d474b10f76e64086a48e52dfaa3ffd84.xls"}}
+{'shopCode': 'S10994000', 'shopName': 'thientri', 'date': '13/05/2022', 'transactionId': 12180246}
+{"success":true,"data":{"fromDate":1652347860000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/6582896b87a7445ebe06b3b2f354a0fe.xls"}}
+{'shopCode': 'S9035492', 'shopName': 'Hải Thanh', 'date': '13/05/2022', 'transactionId': 12180247}
+{"success":true,"data":{"fromDate":1652368077000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/68dc24fe8c224efdab8ece327630be3b.xls"}}
+{'shopCode': 'S9402003', 'shopName': 'viét sinh', 'date': '13/05/2022', 'transactionId': 12180250}
+{"success":true,"data":{"fromDate":1652239187000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/f16debcced634045b87b4546fe98436d.xls"}}
+{'shopCode': 'S13151357', 'shopName': 'QLinh', 'date': '13/05/2022', 'transactionId': 12180251}
+{"success":true,"data":{"fromDate":1652024597000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/005f43f56cb14ae79152091e5ad7b7e5.xls"}}
+{'shopCode': 'S11295227', 'shopName': 'Trần Ngoan 93', 'date': '13/05/2022', 'transactionId': 12180252}
+{"success":true,"data":{"fromDate":1652365810000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/8788d8c8ccb54dd2a27ef08da90b0cca.xls"}}
+{'shopCode': 'S10622069', 'shopName': 'Shop Nhà Mỡ (Hân Nguyễn)', 'date': '13/05/2022', 'transactionId': 12180255}
+{"success":true,"data":{"fromDate":1652358263000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/6d13d8e3fb334d6c9f4c15dfb0d0e758.xls"}}
+{'shopCode': 'S12380114', 'shopName': 'Thanh Nguyệt MN', 'date': '13/05/2022', 'transactionId': 12180256}
+{"success":true,"data":{"fromDate":1652276601000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/27d387ac8b3244c0b642dced13900ef8.xls"}}
+{'shopCode': 'S12054755', 'shopName': 'phụ kiện Mr Nguyễn', 'date': '13/05/2022', 'transactionId': 12180257}
+{"success":true,"data":{"fromDate":1652368056000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/82d77340f715422eb544e79bc06d90de.xls"}}
+{'shopCode': 'S12118523', 'shopName': 'Q Shop Đồng hồ - Máy massage', 'date': '13/05/2022', 'transactionId': 12180258}
+{"success":true,"data":{"fromDate":1651190409000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/9588463a1fb64adf8ad88b8934b3ab99.xls"}}
+{'shopCode': 'S15033772', 'shopName': 'Chan Meo', 'date': '13/05/2022', 'transactionId': 12180259}
+{"success":true,"data":{"fromDate":1652158106000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/3a1198c479f8401392ead3e1a42b950f.xls"}}
+{'shopCode': 'S15235615', 'shopName': 'Music Hub Việt Nam', 'date': '13/05/2022', 'transactionId': 12180260}
+{"success":true,"data":{"fromDate":1652229047000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/c2040c1236984ec4a71265fbca1332d0.xls"}}
+{'shopCode': 'S15255997', 'shopName': 'Mini Trần Thị Thanh Hải', 'date': '13/05/2022', 'transactionId': 12180261}
+{"success":true,"data":{"fromDate":1650510241000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/06fef123d55c4ab3b3872ff1deb2c638.xls"}}
+{'shopCode': 'S17418560', 'shopName': 'Đỗ Thuỳ Bảo Trinh - Không Xem Hàng', 'date': '13/05/2022', 'transactionId': 12180262}
+{"success":true,"data":{"fromDate":1652272704000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/3a481d47c8274f0fa0054dc140727151.xls"}}
+{'shopCode': 'S12255476', 'shopName': 'Vũ Hồng Năm', 'date': '13/05/2022', 'transactionId': 12180263}
+{"success":true,"data":{"fromDate":1652140802000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/b43cf9a220ae4cf1acdf58ff361dfd28.xls"}}
+{'shopCode': 'S15806857', 'shopName': 'Bong Bong Kute', 'date': '13/05/2022', 'transactionId': 12180264}
+{"success":true,"data":{"fromDate":1652317038000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/1b50af6e0cf74f91b8850d0034ed2678.xls"}}
+{'shopCode': 'S18654203', 'shopName': 'Authentic', 'date': '13/05/2022', 'transactionId': 12180265}
+{"success":true,"data":{"fromDate":1652252702000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/a7c2a0a67ffd45acb3b1f2fb69c4d155.xls"}}
+{'shopCode': 'S15571129', 'shopName': 'ĐỖ ĐĂNG NGÂN', 'date': '13/05/2022', 'transactionId': 12180266}
+{"success":true,"data":{"fromDate":1650240007000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/43e602e9d23b4b1e9b645438b1d8e5c3.xls"}}
+{'shopCode': 'S13580021', 'shopName': 'Tuyết Tuyết Anh Clothing', 'date': '13/05/2022', 'transactionId': 12180267}
+{"success":true,"data":{"fromDate":1652247082000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/b735db5e7f244c298bdf8b01f2b9327c.xls"}}
+{'shopCode': 'S19147783', 'shopName': 'CÔNG TY CỔ PHẦN Y DƯỢC SỨC KHỎE VÀNG FPL', 'date': '13/05/2022', 'transactionId': 12180268}
+{"success":true,"data":{"fromDate":1652240880000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/d455058a810a463e8061b1c148f13c05.xls"}}
+{'shopCode': 'S19344295', 'shopName': 'Hmong Music Shop', 'date': '13/05/2022', 'transactionId': 12180269}
+{"success":true,"data":{"fromDate":1652352342000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/fb47dd10f55e4b6c8a4822ff3a25fb37.xls"}}
+{'shopCode': 'S18596281', 'shopName': 'chisai.stuff', 'date': '13/05/2022', 'transactionId': 12180270}
+{"success":true,"data":{"fromDate":1652113677000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/96c6d956ee5d4e14b07fb1932f568304.xls"}}
+{'shopCode': 'S15782302', 'shopName': 'hoàng oanh order hàng xách tay Hàn - Nhật', 'date': '13/05/2022', 'transactionId': 12180271}
+{"success":true,"data":{"fromDate":1652021655000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/a443f857f2404bab96fae8a4dbb0e8c1.xls"}}
+{'shopCode': 'S18153665', 'shopName': "Chic's House- Decor", 'date': '13/05/2022', 'transactionId': 12180272}
+{"success":true,"data":{"fromDate":1652350744000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/3df757e2537f44b4b1afe8d91bfb749a.xls"}}
+{'shopCode': 'S16444996', 'shopName': 'Xưởng In Ấn Và May Mặc SAO MAI', 'date': '13/05/2022', 'transactionId': 12180273}
+{"success":true,"data":{"fromDate":1652286155000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/cf1663dc331a4d2da972c4552bc69c97.xls"}}
+{'shopCode': 'S14611897', 'shopName': 'Hongduyen Chu', 'date': '13/05/2022', 'transactionId': 12180274}
+{"success":true,"data":{"fromDate":1652247448000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/43397d2eebc548cd89abacd33e311bb4.xls"}}
+{'shopCode': 'S31241', 'shopName': 'Lê Thị Yến', 'date': '13/05/2022', 'transactionId': 12180275}
+{"success":true,"data":{"fromDate":1652365775000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/672efbca748c4da5b3882e9972cc6b88.xls"}}
+{'shopCode': 'S3177348', 'shopName': 'quachvugiau2908', 'date': '13/05/2022', 'transactionId': 12180276}
+{"success":true,"data":{"fromDate":1652278202000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/517a563d2fe64604ab9ee30482dfb10e.xls"}}
+{'shopCode': 'S393717', 'shopName': 'NGHIÊM MINH HOA', 'date': '13/05/2022', 'transactionId': 12180277}
+{"success":true,"data":{"fromDate":1652317604000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/9c10d53dbaab4cb18fbb165f80151809.xls"}}
+{'shopCode': 'S19274415', 'shopName': 'quang lê', 'date': '13/05/2022', 'transactionId': 12180278}
+{"success":true,"data":{"fromDate":1652319390000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/08d1fd989c414cb5915c42ec8749bde3.xls"}}
+{'shopCode': 'S18551439', 'shopName': 'Tri thuc', 'date': '13/05/2022', 'transactionId': 12180279}
+{"success":true,"data":{"fromDate":1652276999000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/93363d1c86214d5e89b58f496eefb1c2.xls"}}
+{'shopCode': 'S20354166', 'shopName': 'Hà chiên', 'date': '13/05/2022', 'transactionId': 12180280}
+{"success":true,"data":{"fromDate":1652364350000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/e752e379f59c43fa9b05bbfcda797e79.xls"}}
+{'shopCode': 'S8314450', 'shopName': 'shop Giao Linh.Sĩ & Lẻ Đồ Bộ Pizama & Mỹ phẩm', 'date': '13/05/2022', 'transactionId': 12180281}
+{"success":true,"data":{"fromDate":1652329291000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/ad0602d5e9a34a38b4081636f8797c4f.xls"}}
+{'shopCode': 'S19470789', 'shopName': 'TT SHOP', 'date': '13/05/2022', 'transactionId': 12180283}
+{"success":true,"data":{"fromDate":1652343650000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/4bca3d156b1140a2ac2f322f327b6856.xls"}}
+{'shopCode': 'S7780184', 'shopName': 'Hồ Minh Lý - NPP Matxi Corp', 'date': '13/05/2022', 'transactionId': 12180288}
+{"success":true,"data":{"fromDate":1652374504000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/d76cd1614bc44830af7136a7fc95f000.xls"}}
+{'shopCode': 'S19335800', 'shopName': 'Linh em', 'date': '13/05/2022', 'transactionId': 12180289}
+{"success":true,"data":{"fromDate":1651853189000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/86f1a2bf743d4b7a83afffb778438894.xls"}}
+{'shopCode': 'S45530', 'shopName': 'Xuyên Tiến', 'date': '13/05/2022', 'transactionId': 12180290}
+{"success":true,"data":{"fromDate":1651795223000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/341d1f106f3d4b9a8c3f84483fbf3f4c.xls"}}
+{'shopCode': 'S580325', 'shopName': 'Phương Ly', 'date': '13/05/2022', 'transactionId': 12180291}
+{"success":true,"data":{"fromDate":1651989832000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/10149ab72c1043b680eaf50a9acb8093.xls"}}
+{'shopCode': 'S1092796', 'shopName': 'Akuma89', 'date': '13/05/2022', 'transactionId': 12180292}
+{"success":true,"data":{"fromDate":1652243765000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/c979925f439847baab141eb2e24c2b9b.xls"}}
+{'shopCode': 'S20444785', 'shopName': 'Lychi Vintage', 'date': '13/05/2022', 'transactionId': 12180293}
+{"success":true,"data":{"fromDate":1652361004000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/3d256e5ce533410f88ec6c78d82e4914.xls"}}
+{'shopCode': 'S503193', 'shopName': 'Phan Phụng Nhi ( Nimery )', 'date': '13/05/2022', 'transactionId': 12180294}
+{"success":true,"data":{"fromDate":1652374361000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/ea4128e744a8432e844edf257d715b55.xls"}}
+{'shopCode': 'S360137', 'shopName': 'Soft Decor', 'date': '13/05/2022', 'transactionId': 12180295}
+{"success":true,"data":{"fromDate":1652257094000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/a0d73d01d20245378ae98cf0cdb24ecf.xls"}}
+{'shopCode': 'S20759971', 'shopName': 'Shop Nón 99', 'date': '13/05/2022', 'transactionId': 12180296}
+{"success":true,"data":{"fromDate":1652347592000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/9d85cbaab69444a4b4e254fc7ac78129.xls"}}
+{'shopCode': 'S20616932', 'shopName': 'Shop Sherman92', 'date': '13/05/2022', 'transactionId': 12180297}
+{"success":true,"data":{"fromDate":1652289300000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/8564d099ca07455aa660f52ad46c0ba6.xls"}}
+{'shopCode': 'S20807323', 'shopName': 'Bùi Văn Năm.', 'date': '13/05/2022', 'transactionId': 12180298}
+{"success":true,"data":{"fromDate":1649409018000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/1fa8611464344e37b43720db5d6c537a.xls"}}
+{'shopCode': 'S20872873', 'shopName': '*Luxe Shop', 'date': '13/05/2022', 'transactionId': 12180299}
+{"success":true,"data":{"fromDate":1649067246000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/496483d64c92411493818918067affcb.xls"}}
+{'shopCode': 'S14399695', 'shopName': 'Quỳnh Giao', 'date': '13/05/2022', 'transactionId': 12180300}
+{"success":true,"data":{"fromDate":1652321493000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/236cbf4c221a45b9a6702e18ea4ed1b1.xls"}}
+{'shopCode': 'S20620956', 'shopName': 'Shop hoa ngũ sắc 88', 'date': '13/05/2022', 'transactionId': 12180301}
+{"success":true,"data":{"fromDate":1650195610000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/a61ef8902af44116a62dc85365e71df8.xls"}}
+{'shopCode': 'S2332942', 'shopName': 'thanhvy2203', 'date': '13/05/2022', 'transactionId': 12180302}
+{"success":true,"data":{"fromDate":1652291271000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/c49140893f934e01a5f6acd4eadb113c.xls"}}
+{'shopCode': 'S2673400', 'shopName': 'Laco - Huyền Vũ', 'date': '13/05/2022', 'transactionId': 12180303}
+{"success":true,"data":{"fromDate":1650596747000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/d7dd1200425f4f15955fb679053cc822.xls"}}
+{'shopCode': 'S21005352', 'shopName': 'gia dụng tiện lợi', 'date': '13/05/2022', 'transactionId': 12180304}
+{"success":true,"data":{"fromDate":1651904127000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/d72fa6fcc3eb427191c4d06255c0ab24.xls"}}
+{'shopCode': 'S14737081', 'shopName': 'Nhà Thuốc một 0 3', 'date': '13/05/2022', 'transactionId': 12180305}
+{"success":false,"errorCode":"internal.server.error","traceId":"5767930d57a9d7a4","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S10221833', 'shopName': 'VH KiD_Tổng Kho Bán Buôn Quần Áo Trẻ em', 'date': '13/05/2022', 'transactionId': 12180306}
+{"success":true,"data":{"fromDate":1652364262000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/ff7414e2abc54765b2ce66ff8762c4cd.xls"}}
+{'shopCode': 'S20884247', 'shopName': 'Trang sức cao cấp Ameliee', 'date': '13/05/2022', 'transactionId': 12180307}
+{"success":false,"errorCode":"internal.server.error","traceId":"aa39a4e429d40633","message":"Lỗi hệ thống. Vui lòng thử lại sau"}
+{'shopCode': 'S2766664', 'shopName': 'Thái Dương Sun', 'date': '13/05/2022', 'transactionId': 12180308}
+{"success":true,"data":{"fromDate":1652344341000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/04f6595fd9414fb6be078476ee7d83c7.xls"}}
+{'shopCode': 'S21153944', 'shopName': 'Hình Xăm Dán Shop', 'date': '13/05/2022', 'transactionId': 12180309}
+{"success":true,"data":{"fromDate":1652373069000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/3fd1394ed4bb49afa2bf0fbfe6450691.xls"}}
+{'shopCode': 'S21123417', 'shopName': 'Nến Thơm- EnTi Shop', 'date': '13/05/2022', 'transactionId': 12180310}
+{"success":true,"data":{"fromDate":1652236984000,"toDate":1652400002000,"url":"https://cache.giaohangtietkiem.vn/d/709e04c9a208472eb3b62d9073ac36f3.xls"}}
+{'shopCode': 'S30588', 'shopName': 'Mobile 58 Mai Hắc Đế', 'date': '16/05/2022', 'transactionId': 12180311}
+{"success":true,"data":{"fromDate":1652628542000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/9aa31ecd09624b64bff556b5f042238c.xls"}}
+{'shopCode': 'S3708287', 'shopName': 'nguyệt nhà thuốc tây hạnh phúc', 'date': '16/05/2022', 'transactionId': 12180312}
+{"success":true,"data":{"fromDate":1652151519000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/1d5647228edd49708dbe849c42145b5a.xls"}}
+{'shopCode': 'S1386684', 'shopName': 'Nguyệt Minh', 'date': '16/05/2022', 'transactionId': 12180314}
+{"success":true,"data":{"fromDate":1652631905000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/6eff30fb139e49bc9ead47122591da13.xls"}}
+{'shopCode': 'S4594156', 'shopName': 'Nana Store', 'date': '16/05/2022', 'transactionId': 12180315}
+{"success":true,"data":{"fromDate":1652627825000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/18044365f60842c5ade598afb188dac9.xls"}}
+{'shopCode': 'S3952615', 'shopName': 'Ana Thương Sỉ Lẻ Tinh Dầu Nước Hoa Saffron', 'date': '16/05/2022', 'transactionId': 12180316}
+{"success":true,"data":{"fromDate":1651709189000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/bb47a6fdcfd846ca888cd5c63d4c06ba.xls"}}
+{'shopCode': 'S3190888', 'shopName': 'KHO CHERRY HÀ NỘI', 'date': '16/05/2022', 'transactionId': 12180317}
+{"success":true,"data":{"fromDate":1652584168000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/807c9187630346678671d723a2f3e410.xls"}}
+{'shopCode': 'S4755200', 'shopName': 'Chã Cosmetic', 'date': '16/05/2022', 'transactionId': 12180318}
+{"success":true,"data":{"fromDate":1652614266000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/f45a02bd761043d9a499d55bbf79640a.xls"}}
+{'shopCode': 'S5213772', 'shopName': 'thunguyn', 'date': '16/05/2022', 'transactionId': 12180319}
+{"success":true,"data":{"fromDate":1652587749000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/f4a74101f03f41c7a50b207a1ab80e1c.xls"}}
+{'shopCode': 'S4110047', 'shopName': "Hằng Ruby's", 'date': '16/05/2022', 'transactionId': 12180320}
+{"success":true,"data":{"fromDate":1652411577000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/8e8bf34838ab4aa2928cc5aae31a2465.xls"}}
+{'shopCode': 'S5253436', 'shopName': 'Thu Thảo', 'date': '16/05/2022', 'transactionId': 12180321}
+{"success":true,"data":{"fromDate":1652619019000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/726a49fbcb434eea90cc5e395488b388.xls"}}
+{'shopCode': 'S5735191', 'shopName': 'NGOC DUYÊN STORES', 'date': '16/05/2022', 'transactionId': 12180322}
+{"success":true,"data":{"fromDate":1652623926000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/c5bf33e1230547169a6c9e70bfed9f2e.xls"}}
+{'shopCode': 'S7413576', 'shopName': 'Phương Di', 'date': '16/05/2022', 'transactionId': 12180323}
+{"success":true,"data":{"fromDate":1652617185000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/33e38b6a86674d3096d3c7f672a901ef.xls"}}
+{'shopCode': 'S6986592', 'shopName': 'Hana fashison', 'date': '16/05/2022', 'transactionId': 12180324}
+{"success":true,"data":{"fromDate":1652507422000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/152668af44cf411183ed6441c7b7bb62.xls"}}
+{'shopCode': 'S6206166', 'shopName': 'Đặng Thành Đạt', 'date': '16/05/2022', 'transactionId': 12180325}
+{"success":true,"data":{"fromDate":1652567186000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/ca61b1b4f9a14064ab975e03c07856b0.xls"}}
+{'shopCode': 'S7342656', 'shopName': 'TopTop Store', 'date': '16/05/2022', 'transactionId': 12180326}
+{"success":true,"data":{"fromDate":1652591433000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/5550522dc638408b89c29840753ad4e1.xls"}}
+{'shopCode': 'S5144336', 'shopName': 'hải vân sport', 'date': '16/05/2022', 'transactionId': 12180327}
+{"success":true,"data":{"fromDate":1652520512000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/664ad9a9796c4c16b7449fadeceee56e.xls"}}
+{'shopCode': 'S5570486', 'shopName': 'lương hiền 96', 'date': '16/05/2022', 'transactionId': 12180328}
+{"success":true,"data":{"fromDate":1652630760000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/3a3d908cedba4949bf01ed86cb1e8401.xls"}}
+{'shopCode': 'S7549028', 'shopName': 'Mei Tarot Shop', 'date': '16/05/2022', 'transactionId': 12180329}
+{"success":true,"data":{"fromDate":1652572510000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/b13339e3484d4931b3c31ea7051bc686.xls"}}
+{'shopCode': 'S7817128', 'shopName': 'minhhoang71', 'date': '16/05/2022', 'transactionId': 12180332}
+{"success":true,"data":{"fromDate":1652582906000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/8102a29f67a447d697febb51480b3134.xls"}}
+{'shopCode': 'S7901820', 'shopName': 'Quin_Q', 'date': '16/05/2022', 'transactionId': 12180333}
+{"success":true,"data":{"fromDate":1652606976000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/377e88feb9754c7580c6cc5f5a811fbb.xls"}}
+{'shopCode': 'S8939460', 'shopName': 'Phạm Ngọc Thanh Thy', 'date': '16/05/2022', 'transactionId': 12180334}
+{"success":true,"data":{"fromDate":1652494866000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/a623820c0452425c850ca319b36b559e.xls"}}
+{'shopCode': 'S7474808', 'shopName': 'Hồng Hải', 'date': '16/05/2022', 'transactionId': 12180337}
+{"success":true,"data":{"fromDate":1652620781000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/b6a9b4af57e04312abc7dd130afd3c8b.xls"}}
+{'shopCode': 'S5703183', 'shopName': 'DESIGN', 'date': '16/05/2022', 'transactionId': 12180338}
+{"success":true,"data":{"fromDate":1652617800000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/b3529ddaf2b74ccc83c8c0b908a49681.xls"}}
+{'shopCode': 'S9749454', 'shopName': 'dương thị hoa,,', 'date': '16/05/2022', 'transactionId': 12180339}
+{"success":true,"data":{"fromDate":1652512670000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/6f304d45b63f49bea99536b0059f2d10.xls"}}
+{'shopCode': 'S10238684', 'shopName': 'Ohui, Whoo, Su:m37 Chính Hãng Hàn Quốc', 'date': '16/05/2022', 'transactionId': 12180340}
+{"success":true,"data":{"fromDate":1652599107000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/27c3304742774a449448e19264e7c94f.xls"}}
+{'shopCode': 'S9404037', 'shopName': 'huyen2109', 'date': '16/05/2022', 'transactionId': 12180341}
+{"success":true,"data":{"fromDate":1652598720000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/19f71f383f1849538ad7c042746a7156.xls"}}
+{'shopCode': 'S7913144', 'shopName': 'bán on', 'date': '16/05/2022', 'transactionId': 12180342}
+{"success":true,"data":{"fromDate":1652621465000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/9c9bc19d703c4cae8b7ce66019070bc0.xls"}}
+{'shopCode': 'S9490206', 'shopName': 'Lực Nguyễn', 'date': '16/05/2022', 'transactionId': 12180343}
+{"success":true,"data":{"fromDate":1652597757000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/7100dd8112ed43e9b38f8debbbe8c346.xls"}}
+{'shopCode': 'S9734715', 'shopName': 'giahuycamera', 'date': '16/05/2022', 'transactionId': 12180344}
+{"success":true,"data":{"fromDate":1652436149000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/14bb8139631141e099f566a8126890dd.xls"}}
+{'shopCode': 'S10019792', 'shopName': 'U18 Beauty Shop', 'date': '16/05/2022', 'transactionId': 12180345}
+{"success":true,"data":{"fromDate":1652516138000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/50305678b5a94a74927bae44fb42f194.xls"}}
+{'shopCode': 'S10231787', 'shopName': 'Dung DAC', 'date': '16/05/2022', 'transactionId': 12180346}
+{"success":true,"data":{"fromDate":1652615085000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/0a3bf538afa342f9b3fd8d00de10d38a.xls"}}
+{'shopCode': 'S10759448', 'shopName': 'Pandashop', 'date': '16/05/2022', 'transactionId': 12180347}
+{"success":true,"data":{"fromDate":1650368057000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/6c5f4e7c51714724b147edfeb3b2b5fc.xls"}}
+{'shopCode': 'S11098055', 'shopName': 'tổng kho sơ mi TLH', 'date': '16/05/2022', 'transactionId': 12180348}
+{"success":true,"data":{"fromDate":1652616684000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/90dc793cc30844cbad38a3a79d244407.xls"}}
+{'shopCode': 'S10771868', 'shopName': 'Phan Mobile', 'date': '16/05/2022', 'transactionId': 12180349}
+{"success":true,"data":{"fromDate":1652494253000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/d5250f93e3234fa9b206975b83e910b7.xls"}}
+{'shopCode': 'S13836487', 'shopName': 'Jihukio quyen', 'date': '16/05/2022', 'transactionId': 12180350}
+{"success":true,"data":{"fromDate":1652509706000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/213e31f136414953a931319dc81a3beb.xls"}}
+{'shopCode': 'S11265104', 'shopName': 'Mall- Bán buôn bán lẻ', 'date': '16/05/2022', 'transactionId': 12180353}
+{"success":true,"data":{"fromDate":1652338271000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/cd28d6d733e445b7903fe06f85f103e9.xls"}}
+{'shopCode': 'S10126550', 'shopName': 'vanhnt1710', 'date': '16/05/2022', 'transactionId': 12180354}
+{"success":true,"data":{"fromDate":1652623594000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/c4c825c2cbd442e99654c0d4a5453c7f.xls"}}
+{'shopCode': 'S10510265', 'shopName': 'hoai thu 2410', 'date': '16/05/2022', 'transactionId': 12180357}
+{"success":true,"data":{"fromDate":1652618529000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/b889976a7c31424084f726b41282b149.xls"}}
+{'shopCode': 'S12275555', 'shopName': 'Lương Thị Châu Anh', 'date': '16/05/2022', 'transactionId': 12180358}
+{"success":true,"data":{"fromDate":1652540578000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/3770e8ad3d69473c96087dee861b0199.xls"}}
+{'shopCode': 'S15958570', 'shopName': 'Công Huy 2', 'date': '16/05/2022', 'transactionId': 12180359}
+{"success":true,"data":{"fromDate":1652610986000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/7a822856d8a44d26b0f0cf2fa8194872.xls"}}
+{'shopCode': 'S9899408', 'shopName': 'linhnails', 'date': '16/05/2022', 'transactionId': 12180360}
+{"success":true,"data":{"fromDate":1652589058000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/29fe2c76a13444dfb7d6430d44ea1803.xls"}}
+{'shopCode': 'S11384678', 'shopName': '1988.store', 'date': '16/05/2022', 'transactionId': 12180361}
+{"success":true,"data":{"fromDate":1652618968000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/2e409ad48ea047c8be90bfa37698c40e.xls"}}
+{'shopCode': 'S10901315', 'shopName': 'đinh thị hải', 'date': '16/05/2022', 'transactionId': 12180362}
+{"success":true,"data":{"fromDate":1652603000000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/898b274aee254d408eb600c5b8e99851.xls"}}
+{'shopCode': 'S11443037', 'shopName': 'Shop feel', 'date': '16/05/2022', 'transactionId': 12180365}
+{"success":true,"data":{"fromDate":1652583724000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/66cdc344dda64ee5823e43400539ca58.xls"}}
+{'shopCode': 'S11479532', 'shopName': 'MiuXinh Store', 'date': '16/05/2022', 'transactionId': 12180369}
+{"success":true,"data":{"fromDate":1652352240000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/1df3bf7d2eb94f639cbce465a60e840d.xls"}}
+{'shopCode': 'S11998931', 'shopName': 'kkkkkdat1993', 'date': '16/05/2022', 'transactionId': 12180372}
+{"success":true,"data":{"fromDate":1652613873000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/eb0b39c173ad4fd1902d7c87026f86b9.xls"}}
+{'shopCode': 'S12959510', 'shopName': 'Đại Lý Hiền Bùi', 'date': '16/05/2022', 'transactionId': 12180375}
+{"success":true,"data":{"fromDate":1652626522000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/2dd0f084a92a40f5a4ffb66781890e6c.xls"}}
+{'shopCode': 'S12646136', 'shopName': 'shop tuiti', 'date': '16/05/2022', 'transactionId': 12180376}
+{"success":true,"data":{"fromDate":1652492641000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/a5cc2d0619ca4199b2aacd678be4590c.xls"}}
+{'shopCode': 'S12960539', 'shopName': 'Kim Ngân Shop', 'date': '16/05/2022', 'transactionId': 12180379}
+{"success":true,"data":{"fromDate":1652630641000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/de8da009f374405486eba3ccf5574470.xls"}}
+{'shopCode': 'S12499121', 'shopName': 'Run3', 'date': '16/05/2022', 'transactionId': 12180382}
+{"success":true,"data":{"fromDate":1652176679000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/a0092ec8f8234657ae29a197ca8930d8.xls"}}
+{'shopCode': 'S15211810', 'shopName': 'kratos9999', 'date': '16/05/2022', 'transactionId': 12180383}
+{"success":true,"data":{"fromDate":1652629016000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/c108daa12ef34d95b6170f196d1a4f0e.xls"}}
+{'shopCode': 'S15172618', 'shopName': "Tit's shop", 'date': '16/05/2022', 'transactionId': 12180384}
+{"success":true,"data":{"fromDate":1652538656000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/638cf4e772f4432eb8c67bc5621e9e4b.xls"}}
+{'shopCode': 'S17017558', 'shopName': 'Johny Group', 'date': '16/05/2022', 'transactionId': 12180385}
+{"success":true,"data":{"fromDate":1652627418000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/a20749c0a9524a19af933f2cd84c1191.xls"}}
+{'shopCode': 'S18477032', 'shopName': 'Phụ kiện HK', 'date': '16/05/2022', 'transactionId': 12180386}
+{"success":true,"data":{"fromDate":1652617373000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/daab1851543c4270adb2de8422e909e8.xls"}}
+{'shopCode': 'S13583486', 'shopName': 'Khánh Linh', 'date': '16/05/2022', 'transactionId': 12180387}
+{"success":true,"data":{"fromDate":1652227297000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/24374b15c1e94ccda56248ea9ab447f9.xls"}}
+{'shopCode': 'S18385802', 'shopName': 'Vàng Thị Mang', 'date': '16/05/2022', 'transactionId': 12180388}
+{"success":true,"data":{"fromDate":1652620480000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/7758f51bd5494aef9805bbfeb2c7b6d2.xls"}}
+{'shopCode': 'S17693369', 'shopName': 'Lanvyshop', 'date': '16/05/2022', 'transactionId': 12180389}
+{"success":true,"data":{"fromDate":1652518141000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/dcc0d7178ad343e884e64f5d768069a2.xls"}}
+{'shopCode': 'S14540443', 'shopName': '2handmtcn', 'date': '16/05/2022', 'transactionId': 12180390}
+{"success":true,"data":{"fromDate":1652598546000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/583a3117df9c4892803d7cc1fc1afa8f.xls"}}
+{'shopCode': 'S15939343', 'shopName': 'Tú Dương', 'date': '16/05/2022', 'transactionId': 12180391}
+{"success":true,"data":{"fromDate":1652497192000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/526cdc74ceb540fe8fc64b234b988619.xls"}}
+{'shopCode': 'S18299647', 'shopName': 'Kho sỉ , lẻ đồ bộ lụa, đồ ngủ Vy Linh', 'date': '16/05/2022', 'transactionId': 12180394}
+{"success":true,"data":{"fromDate":1652629166000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/0a032475accf448aa9c221f359da40b2.xls"}}
+{'shopCode': 'S19199599', 'shopName': 'Thu Phương', 'date': '16/05/2022', 'transactionId': 12180395}
+{"success":true,"data":{"fromDate":1652582917000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/38cc2a7364b34d3eb9d63a36962b214e.xls"}}
+{'shopCode': 'S1024632', 'shopName': 'Vu minh hien', 'date': '16/05/2022', 'transactionId': 12180396}
+{"success":true,"data":{"fromDate":1652558290000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/8a4a249e4d964cbea0a2b32a6d55a969.xls"}}
+{'shopCode': 'S18291757', 'shopName': 'đồ thú cưng 1,,,,', 'date': '16/05/2022', 'transactionId': 12180397}
+{"success":true,"data":{"fromDate":1652234648000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/a6cd4ad6b09d448f91026630373a6cd9.xls"}}
+{'shopCode': 'S12628064', 'shopName': 'Y-fancy', 'date': '16/05/2022', 'transactionId': 12180398}
+{"success":true,"data":{"fromDate":1652577750000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/d35c3a063bfe4a489ad26c8a3dd42b58.xls"}}
+{'shopCode': 'S16197058', 'shopName': '47 SHOP', 'date': '16/05/2022', 'transactionId': 12180399}
+{"success":true,"data":{"fromDate":1652619450000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/309163665db7410388f06bd64d170ec8.xls"}}
+{'shopCode': 'S393265', 'shopName': 'Khoa Đồ Kiểu', 'date': '16/05/2022', 'transactionId': 12180400}
+{"success":true,"data":{"fromDate":1652628188000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/910311be9dad4bee8a588b5bff92bb85.xls"}}
+{'shopCode': 'S3673255', 'shopName': 'Quỳnh Nguyễn Store', 'date': '16/05/2022', 'transactionId': 12180401}
+{"success":true,"data":{"fromDate":1652628059000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/89e3ea969c2749ae8474af74a3f9a9b4.xls"}}
+{'shopCode': 'S56207', 'shopName': 'Heoxinh', 'date': '16/05/2022', 'transactionId': 12180402}
+{"success":true,"data":{"fromDate":1652623855000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/801f6065df1c42f89450f37893d9a9ba.xls"}}
+{'shopCode': 'S1406357', 'shopName': 'Thông nadal', 'date': '16/05/2022', 'transactionId': 12180403}
+{"success":true,"data":{"fromDate":1652591183000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/f11d00137e714fdfab29013f633146bb.xls"}}
+{'shopCode': 'S19031339', 'shopName': 'Hải Hà', 'date': '16/05/2022', 'transactionId': 12180404}
+{"success":true,"data":{"fromDate":1652600810000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/cc16020cf0814321a9e94a2111fea6c8.xls"}}
+{'shopCode': 'S16372378', 'shopName': 'Bùi Hường', 'date': '16/05/2022', 'transactionId': 12180405}
+{"success":true,"data":{"fromDate":1652590230000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/31b51ef68a604b54bc873c17a76e5ab3.xls"}}
+{'shopCode': 'S17252986', 'shopName': 'shop hoàng thành', 'date': '16/05/2022', 'transactionId': 12180406}
+{"success":true,"data":{"fromDate":1652595514000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/6199d917349d47df80337d472ae19b21.xls"}}
+{'shopCode': 'S15230311', 'shopName': 'Mỹ Phẩm Thanh Mây', 'date': '16/05/2022', 'transactionId': 12180407}
+{"success":true,"data":{"fromDate":1652627641000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/1abc165a7f5640279dc8a0276de4641f.xls"}}
+{'shopCode': 'S20218', 'shopName': 'Rodi Hobby Shop', 'date': '16/05/2022', 'transactionId': 12180408}
+{"success":true,"data":{"fromDate":1652614048000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/ae2bd463adc749f7aa1a97691b65ab1e.xls"}}
+{'shopCode': 'S19180822', 'shopName': 'Jenisbeauty', 'date': '16/05/2022', 'transactionId': 12180409}
+{"success":true,"data":{"fromDate":1651542023000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/b7a1993ee6404b5f92ccd02eede6224d.xls"}}
+{'shopCode': 'S1755253', 'shopName': 'Cty Dược và Mỹ Phẩm TH', 'date': '16/05/2022', 'transactionId': 12180410}
+{"success":true,"data":{"fromDate":1652633794000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/e61e78980a514a059168373c7ae2e9d9.xls"}}
+{'shopCode': 'S2840256', 'shopName': 'CHÂN TRUYỀN', 'date': '16/05/2022', 'transactionId': 12180411}
+{"success":true,"data":{"fromDate":1652517694000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/33d7157f172b43f1a0a3dcd229dbe649.xls"}}
+{'shopCode': 'S45826', 'shopName': 'COCA Contactlens', 'date': '16/05/2022', 'transactionId': 12180412}
+{"success":true,"data":{"fromDate":1652602599000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/25bc2ad1b9c24cf5b1e4e227566efaf1.xls"}}
+{'shopCode': 'S19219532', 'shopName': 'Shop đồ chơi sỉ lẻ', 'date': '16/05/2022', 'transactionId': 12180413}
+{"success":true,"data":{"fromDate":1652540426000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/7f9887950a564bb38c3c027ffff48301.xls"}}
+{'shopCode': 'S19612176', 'shopName': 'team_pixel', 'date': '16/05/2022', 'transactionId': 12180414}
+{"success":true,"data":{"fromDate":1652528775000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/7cb12381b6c747a28017658eac4b32bd.xls"}}
+{'shopCode': 'S19613416', 'shopName': 'Amway Diệu', 'date': '16/05/2022', 'transactionId': 12180415}
+{"success":true,"data":{"fromDate":1652412764000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/065ecb28a9a2436d8bbd9160f01caa63.xls"}}
+{'shopCode': 'S1245340', 'shopName': 'Đồ Hầu Thuỳ Liên', 'date': '16/05/2022', 'transactionId': 12180416}
+{"success":true,"data":{"fromDate":1652621878000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/ecb40a56a0404b2584170a2d9f62be1c.xls"}}
+{'shopCode': 'S290386', 'shopName': 'phụ kiện xinh-Lê Anh Phụng', 'date': '16/05/2022', 'transactionId': 12180417}
+{"success":true,"data":{"fromDate":1652581280000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/ebd0e5982eed4e3caead58cdc3828780.xls"}}
+{'shopCode': 'S2473102', 'shopName': 'Trần Thị Thắm 0909', 'date': '16/05/2022', 'transactionId': 12180418}
+{"success":true,"data":{"fromDate":1651910523000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/7cf397239d3349fd813111c7ed1c09b8.xls"}}
+{'shopCode': 'S554473', 'shopName': 'Shop Ngân Ngân_', 'date': '16/05/2022', 'transactionId': 12180419}
+{"success":true,"data":{"fromDate":1652611940000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/6d83abcea47b4a03825db09e3fca1ae8.xls"}}
+{'shopCode': 'S589437', 'shopName': 'Lý Thị Thuý Oanh', 'date': '16/05/2022', 'transactionId': 12180420}
+{"success":true,"data":{"fromDate":1652604683000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/34fb7906fcf64e168ab73ec083785b1a.xls"}}
+{'shopCode': 'S19085805', 'shopName': 'Trần Nguyễn Thanh Danh', 'date': '16/05/2022', 'transactionId': 12180421}
+{"success":true,"data":{"fromDate":1652605476000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/4b58e2c353f044f4ada273053582ae35.xls"}}
+{'shopCode': 'S72560', 'shopName': 'Mỹ phẩm TN Hoàng Thúy', 'date': '16/05/2022', 'transactionId': 12180422}
+{"success":true,"data":{"fromDate":1652628198000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/b49e93ea2bcd4e28a61c90620f9bffad.xls"}}
+{'shopCode': 'S525445', 'shopName': 'phương anh', 'date': '16/05/2022', 'transactionId': 12180423}
+{"success":true,"data":{"fromDate":1652585571000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/4aac7d58ed024e04ab9686cd2f261d79.xls"}}
+{'shopCode': 'S3324848', 'shopName': 'Thuỷ Jeans', 'date': '16/05/2022', 'transactionId': 12180426}
+{"success":true,"data":{"fromDate":1652598154000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/c87c2fdaad084748a5e67735419d7a21.xls"}}
+{'shopCode': 'S52309', 'shopName': 'Thuý Lavie', 'date': '16/05/2022', 'transactionId': 12180428}
+{"success":true,"data":{"fromDate":1652502710000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/796f18f1a13546ef9c1c7ae94001edc6.xls"}}
+{'shopCode': 'S20141684', 'shopName': 'Nhàn Túi Giày', 'date': '16/05/2022', 'transactionId': 12180429}
+{"success":true,"data":{"fromDate":1652627510000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/6e944987d324431fbe45eea0d28d05a9.xls"}}
+{'shopCode': 'S637261', 'shopName': 'giadungso.com', 'date': '16/05/2022', 'transactionId': 12180432}
+{"success":true,"data":{"fromDate":1652522853000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/9bc69e2cf45346ca8c4bd6bdb8db8dc8.xls"}}
+{'shopCode': 'S1058932', 'shopName': 'LINH THẢM YOGA', 'date': '16/05/2022', 'transactionId': 12180433}
+{"success":true,"data":{"fromDate":1652543743000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/5a1a8a7e7b60436990a52e7bc6105024.xls"}}
+{'shopCode': 'S21155688', 'shopName': 'PK Nam Khoa+', 'date': '16/05/2022', 'transactionId': 12180434}
+{"success":true,"data":{"fromDate":1652626607000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/e21f53c240f74e5f96508f27a5aa8351.xls"}}
+{'shopCode': 'S491025', 'shopName': 'BORECOLE.SINCE2015', 'date': '16/05/2022', 'transactionId': 12180437}
+{"success":true,"data":{"fromDate":1652541868000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/0daf381f283a40a4b36f4e6d15e4a2b3.xls"}}
+{'shopCode': 'S20209346', 'shopName': 'Apa Niche.', 'date': '16/05/2022', 'transactionId': 12180440}
+{"success":true,"data":{"fromDate":1652625044000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/0d757f853cf74754886e56de466b5644.xls"}}
+{'shopCode': 'S154359', 'shopName': 'Mạnh Quỳnh Túi Xách', 'date': '16/05/2022', 'transactionId': 12180441}
+{"success":true,"data":{"fromDate":1652622608000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/653e6ebc754642cca0bbc9e4a688fc3f.xls"}}
+{'shopCode': 'S315665', 'shopName': 'Fb Trang Trang', 'date': '16/05/2022', 'transactionId': 12180442}
+{"success":true,"data":{"fromDate":1652519733000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/a20e023218734dcf90fed5269208e293.xls"}}
+{'shopCode': 'S19167032', 'shopName': 'checaord', 'date': '16/05/2022', 'transactionId': 12180443}
+{"success":true,"data":{"fromDate":1652596923000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/a2715d3578f449408733d183cd288fe4.xls"}}
+{'shopCode': 'S1282308', 'shopName': 'shop tuyết dinh', 'date': '16/05/2022', 'transactionId': 12180444}
+{"success":true,"data":{"fromDate":1652605183000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/556c533b3b3442e9b7450d14bf4ed443.xls"}}
+{'shopCode': 'S21262392', 'shopName': 'heo buby (vì bèo cháy túi)', 'date': '16/05/2022', 'transactionId': 12180449}
+{"success":true,"data":{"fromDate":1652628991000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/0710c67af2e2475f8bb5a1afb377dbfb.xls"}}
+{'shopCode': 'S292711', 'shopName': 'Trần Thị Thanh Tuyền', 'date': '16/05/2022', 'transactionId': 12180450}
+{"success":true,"data":{"fromDate":1652485215000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/f2834b4aa270479ab67661c10647c09a.xls"}}
+{'shopCode': 'S139477', 'shopName': 'DP COMPANY', 'date': '16/05/2022', 'transactionId': 12180451}
+{"success":true,"data":{"fromDate":1652626467000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/a9184a1049914b93ba224f7ac4c9cae5.xls"}}
+{'shopCode': 'S4326603', 'shopName': 'Mi Loan', 'date': '16/05/2022', 'transactionId': 12180454}
+{"success":true,"data":{"fromDate":1652590077000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/2d6863408f134f6eaceab7b63d47dcb0.xls"}}
+{'shopCode': 'S1974293', 'shopName': 'Quang Minh Aptomat', 'date': '16/05/2022', 'transactionId': 12180455}
+{"success":true,"data":{"fromDate":1652619795000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/8cda7eea301e4936835c2624fbd71aa9.xls"}}
+{'shopCode': 'S120813', 'shopName': 'HUỲNH HIỀN', 'date': '16/05/2022', 'transactionId': 12180460}
+{"success":true,"data":{"fromDate":1652610989000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/ab738cba86d74975a1304401ad52f33f.xls"}}
+{'shopCode': 'S1089984', 'shopName': 'HC shop- giày chính hãng', 'date': '16/05/2022', 'transactionId': 12180461}
+{"success":true,"data":{"fromDate":1652624265000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/39fed824dfb54aebbaf1bf5548fe7fe4.xls"}}
+{'shopCode': 'S3794835', 'shopName': 'Nhi Nguyễn homemade', 'date': '16/05/2022', 'transactionId': 12180462}
+{"success":true,"data":{"fromDate":1651546959000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/18232e156878425580598b39fbcbc0e2.xls"}}
+{'shopCode': 'S20258429', 'shopName': 'AMBUSHOP', 'date': '16/05/2022', 'transactionId': 12180463}
+{"success":true,"data":{"fromDate":1652589314000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/78736a448f3f4863a2c37bf28c5eb919.xls"}}
+{'shopCode': 'S20168071', 'shopName': 'Khui sầu riêng inox', 'date': '16/05/2022', 'transactionId': 12180464}
+{"success":true,"data":{"fromDate":1652505329000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/d76a22742e114b9880b1a44810fc1e41.xls"}}
+{'shopCode': 'S27673', 'shopName': 'Phụ Kiện Cưới Giang.', 'date': '16/05/2022', 'transactionId': 12180465}
+{"success":true,"data":{"fromDate":1652628426000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/fd930f7e45304e7793b625e1561aef2a.xls"}}
+{'shopCode': 'S3465247', 'shopName': 'Thuý Ngần', 'date': '16/05/2022', 'transactionId': 12180468}
+{"success":true,"data":{"fromDate":1651998025000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/8b0c54a2a66f4b9488a5ca918cfcbefd.xls"}}
+{'shopCode': 'S11411369', 'shopName': 'HuanTV', 'date': '16/05/2022', 'transactionId': 12180472}
+{"success":true,"data":{"fromDate":1652162084000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/1b0dbb0ac66d421b9e95331571833684.xls"}}
+{'shopCode': 'S46494', 'shopName': 'Mỹ Duyên', 'date': '16/05/2022', 'transactionId': 12180473}
+{"success":true,"data":{"fromDate":1652518108000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/3035152b535f4c77a75eb1af9c8d31fc.xls"}}
+{'shopCode': 'S3913791', 'shopName': 'TNTShopHCM', 'date': '16/05/2022', 'transactionId': 12180476}
+{"success":true,"data":{"fromDate":1652628574000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/fb0a6bb55830401fa6eaa43dc7597ace.xls"}}
+{'shopCode': 'S6396334', 'shopName': 'Tiểu Yến 0964 1006 94', 'date': '16/05/2022', 'transactionId': 12180477}
+{"success":true,"data":{"fromDate":1652543530000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/53bbde5806ef42f2b7d6151e36d57060.xls"}}
+{'shopCode': 'S21038255', 'shopName': 'Ngọc Thành KH', 'date': '16/05/2022', 'transactionId': 12180478}
+{"success":true,"data":{"fromDate":1652622311000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/1d9331ea162044a9b92ce68e9d41ea15.xls"}}
+{'shopCode': 'S8036554', 'shopName': 'nlinnee1307', 'date': '16/05/2022', 'transactionId': 12180479}
+{"success":true,"data":{"fromDate":1652342956000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/e71bb78f57384e259f917e8e6c88c49c.xls"}}
+{'shopCode': 'S21157389', 'shopName': 'Laurence Shop', 'date': '16/05/2022', 'transactionId': 12180482}
+{"success":true,"data":{"fromDate":1652227364000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/f41b35261cec4e548b432de16ab8917e.xls"}}
+{'shopCode': 'S20912781', 'shopName': 'Đồ Bộ Ngọc Thêm+', 'date': '16/05/2022', 'transactionId': 12180485}
+{"success":true,"data":{"fromDate":1652596598000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/2add4009bed249b0b80e65b5011b0a54.xls"}}
+{'shopCode': 'S21251484', 'shopName': 'thời trang nữ cao cấp ÝSL', 'date': '16/05/2022', 'transactionId': 12180486}
+{"success":true,"data":{"fromDate":1652608050000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/b2d1a46513154f14a307db642e1d6b6f.xls"}}
+{'shopCode': 'S412209', 'shopName': 'Bikini Kiều Gà - Sài Gòn', 'date': '16/05/2022', 'transactionId': 12180487}
+{"success":true,"data":{"fromDate":1652603867000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/fd750c0a72aa4a2fadf6c40c2766bcc4.xls"}}
+{'shopCode': 'S754450', 'shopName': 'BiBi & Sport Man', 'date': '16/05/2022', 'transactionId': 12180488}
+{"success":true,"data":{"fromDate":1652623446000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/b88844d1e521467d95dd1ff26abcc2a9.xls"}}
+{'shopCode': 'S21367956', 'shopName': 'Lê Phương Linh', 'date': '16/05/2022', 'transactionId': 12180489}
+{"success":true,"data":{"fromDate":1652417151000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/c6b57dc2071f4a508371d1f45a581035.xls"}}
+{'shopCode': 'S21172010', 'shopName': 'Shop Huyền Phạm..', 'date': '16/05/2022', 'transactionId': 12180492}
+{"success":true,"data":{"fromDate":1652631375000,"toDate":1652659202000,"url":"https://cache.giaohangtietkiem.vn/d/128f87bf975945558cd7e18a0f3df189.xls"}}
